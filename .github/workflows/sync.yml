@@ -11,53 +11,60 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 马来西亚
-      - name: Download my.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/my.m3u" -o my.m3u
+      - name: Download all m3u
+        run: |
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u" -o cn.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u" -o hk.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u" -o tw.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/my.m3u" -o my.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/id.m3u" -o id.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jp.m3u" -o jp.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u" -o kr.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sg.m3u" -o sg.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/vn.m3u" -o vn.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in.m3u" -o in.m3u
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ph.m3u" -o ph.m3u
 
-      # 印度尼西亚
-      - name: Download id.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/id.m3u" -o id.m3u
+      - name: Merge to all.m3u with English groups
+        run: |
+          echo "#EXTM3U" > all.m3u
 
-      # 日本
-      - name: Download jp.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jp.m3u" -o jp.m3u
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="China" /' cn.m3u | tail -n +2 >> all.m3u
 
-      # 韩国
-      - name: Download kr.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u" -o kr.m3u
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="Hong Kong" /' hk.m3u | tail -n +2 >> all.m3u
 
-      # 香港
-      - name: Download hk.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u" -o hk.m3u
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="Taiwan" /' tw.m3u | tail -n +2 >> all.m3u
 
-      # 台湾
-      - name: Download tw.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u" -o tw.m3u
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="Malaysia" /' my.m3u | tail -n +2 >> all.m3u
 
-      # 新加坡
-      - name: Download sg.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sg.m3u" -o sg.m3u
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="Indonesia" /' id.m3u | tail -n +2 >> all.m3u
 
-      # 越南
-      - name: Download vn.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/vn.m3u" -o vn.m3u
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="Japan" /' jp.m3u | tail -n +2 >> all.m3u
 
-      # 印度
-      - name: Download in.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in.m3u" -o in.m3u
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="Korea" /' kr.m3u | tail -n +2 >> all.m3u
 
-      # 菲律宾
-      - name: Download ph.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ph.m3u" -o ph.m3u
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="Singapore" /' sg.m3u | tail -n +2 >> all.m3u
 
-      # 中国
-      - name: Download cn.m3u
-        run: curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u" -o cn.m3u
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="Vietnam" /' vn.m3u | tail -n +2 >> all.m3u
+
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="India" /' in.m3u | tail -n +2 >> all.m3u
+
+          echo "" >> all.m3u
+          sed 's/^#EXTINF:-1 /#EXTINF:-1 group-title="Philippines" /' ph.m3u | tail -n +2 >> all.m3u
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
-          message: Auto update all countries IPTV
+          message: Auto update all countries with English groups
           committer_name: GitHub Actions
           committer_email: actions@github.com
