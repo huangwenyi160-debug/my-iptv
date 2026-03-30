@@ -1,0 +1,23 @@
+name: Sync Malaysia IPTV
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download my.m3u
+        run: |
+          curl -L "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/my.m3u" -o my.m3u
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: Auto update my.m3u
+          committer_name: AutoSync
+          committer_email: auto@sync.com
