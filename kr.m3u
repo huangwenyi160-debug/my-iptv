@@ -181,3 +181,5 @@ http://202.60.106.14:8080/214/playlist.m3u8
 http://202.60.106.14:21585/214/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD",Arirang TV
+https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
