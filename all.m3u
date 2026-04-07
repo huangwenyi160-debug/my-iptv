@@ -1653,6 +1653,11 @@ http://103.66.62.83:8000/play/a00c/index.m3u8
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="WesalTV.id@SD",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="Telkom247.id@HD",Telkom 24/7 (1080p)
+#EXTVLCOPT:http-referrer=https://edge.renderforestsites.com/Telkom_247/
+https://app.viloud.tv/hls/channel/631ffbd301331b3156250098cc22ff46.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="MyKidz.id@SD",My Kidz (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTINF:-1 group-title="Japan" tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
@@ -1921,6 +1926,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="Vasantham.sg@SD",Vasantham
 https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="ROCKEntertainment.sg@SD",ROCK Entertainment (720p)
+http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#EXTINF:-1 group-title="Singapore" tvg-id="ROCKAction.sg@SD",ROCK Action (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -3123,6 +3132,8 @@ https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeTelugu.in@HD",Zee Telugu HD (1080p)
 https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="BigTV24x7.in@SD",Big TV 24x7 (576i)
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8

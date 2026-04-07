@@ -386,3 +386,8 @@ http://103.66.62.83:8000/play/a00c/index.m3u8
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="WesalTV.id@SD",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-id="Telkom247.id@HD",Telkom 24/7 (1080p)
+#EXTVLCOPT:http-referrer=https://edge.renderforestsites.com/Telkom_247/
+https://app.viloud.tv/hls/channel/631ffbd301331b3156250098cc22ff46.m3u8
+#EXTINF:-1 tvg-id="MyKidz.id@SD",My Kidz (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
