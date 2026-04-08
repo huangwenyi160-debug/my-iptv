@@ -1658,6 +1658,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://app.viloud.tv/hls/channel/631ffbd301331b3156250098cc22ff46.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="MyKidz.id@SD",My Kidz (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1 group-title="Indonesia" tvg-id="RajawaliTV.id@SD",Rajawali TV (576i)
+#EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
+http://175.158.57.130:8888/stream/channelid/412436804
 
 #EXTINF:-1 group-title="Japan" tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html

@@ -391,3 +391,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://app.viloud.tv/hls/channel/631ffbd301331b3156250098cc22ff46.m3u8
 #EXTINF:-1 tvg-id="MyKidz.id@SD",My Kidz (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD",Rajawali TV (576i)
+#EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
+http://175.158.57.130:8888/stream/channelid/412436804
