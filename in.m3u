@@ -742,8 +742,6 @@ http://103.229.254.25:7001/play/a032/index.m3u8
 http://103.121.6.5:8000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
 http://103.161.153.165:8000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-id="StarUtsav.in@SD",Star Utsav (576p)
-http://116.90.120.151:8000/play/a0kc/index.m3u8
 #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p)
 http://116.90.120.151:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD",Starnet (480p)
@@ -985,8 +983,6 @@ http://ptu.ridsys.in/riptv/live/NICK/index.m3u8
 http://ptu.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in@HD",Zee Thirai HD (1080p)
 http://ptu.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
-http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in@HD",Zee Tamil HD (1080p)
 http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@Plus2",The Movie Club +2 (1080p)
@@ -1087,3 +1083,7 @@ https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
 #EXTINF:-1 tvg-id="BigTV24x7.in@SD",Big TV 24x7 (576i)
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD",News Malayalam 24x7 (576p)
+https://cdn-3.pishow.tv/live/1629/master.m3u8
+#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD",News Tamil 24x7 (576p)
+https://cdn-3.pishow.tv/live/1433/master.m3u8
