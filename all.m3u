@@ -3174,3 +3174,95 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 group-title="Philippines" tvg-id="TeleRadyo.ph@HD",TeleRadyo (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+
+#####################################################################
+# Sports
+#####################################################################
+#EXTINF:-1 tvg-name="Astro Arena" tvg-id="2552" tvg-country="MY" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226172707246841_66.jpg" group-title="Sports",Astro Arena
+https://t.freetv.fun/live/astro-arena-z.ts
+#EXTINF:-1 tvg-name="Astro Arena 2" tvg-id="4100" tvg-country="MY" tvg-logo="https://epg.pw/media/images/channel/2022/11/11/large/20221111223229263458_39.jpg" group-title="Sports",Astro Arena 2
+https://t.freetv.fun/live/astro-arena-2-z.ts
+#EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" group-title="Sports",Astro Premier League 1
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp1
+#EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" group-title="Sports",Astro EPL 1 backup
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp1x
+#EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" group-title="Sports",Astro Premier League 2
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp2
+#EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" group-title="Sports",Astro Grandstand
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp3
+#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" group-title="Sports",Astro Football
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp4
+#EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" group-title="Sports",Astro Sports Plus
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_sportsplus
+#EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" group-title="Sports",Astro Badminton 1
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton1
+#EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" group-title="Sports",Astro Badminton 2
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton2
+#EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" group-title="Sports",Astro W-Sports
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp5
+#EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" group-title="Sports",Supersports 1
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp1
+#EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" group-title="Sports",Supersports 2
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp2
+#EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" group-title="Sports",Supersports 3
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp3
+#EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" group-title="Sports",Supersports 4
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp4
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" group-title="Sports",WWE
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wwe
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" group-title="Sports",Fight Sports
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Fs
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" group-title="Sports",NBA TV
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nba
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" group-title="Sports",Astro Cricket
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Acricket
+#EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" group-title="Sports",Astro Golf
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Agolf
+#EXTINF:-1 tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" group-title="Sports",TNT Sports 1
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=6fac0aaead
+#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" group-title="Sports",TNT Sports 2
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=d9a76a79cc
+#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" group-title="Sports",TNT Sports 3
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=5fea4d73db
+#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" group-title="Sports",TNT Sports 4
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport4
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" group-title="Sports",Sony Ten 1
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ten1_raj
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" group-title="Sports",Sony Ten 2
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ten2_raj
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" group-title="Sports",Sony Ten 3
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ten3_raj
+#EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" group-title="Sports",SPOTV 1 HD
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_spotv
+#EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPO TV 2" group-title="Sports",SPO TV 2
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_spotv2
+#EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" group-title="Sports",Skysports F1
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongf1
+#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" group-title="Sports",Skysports Cricket
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongcricket
+#EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" group-title="Sports",Skysports EPL
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongepl
+#EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" group-title="Sports",Skysports Main Event
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongmain
+#EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" group-title="Sports",Skysports News
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongnews
+#EXTINF:-1 tvg-id="Skysports Mix" tvg-name="Skysports Mix" group-title="Sports",Skysports Mix
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongmix
+#EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" group-title="Sports",Rugby Pass TV
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rugbypasstv
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" group-title="Sports",RTM Sports HD
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmsport
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" group-title="Sports",Arena
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" group-title="Sports",Arena 2
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena2
+#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" group-title="Sports",BolaArena 1
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena1
+#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" group-title="Sports",BolaArena 2
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena2
+#EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" group-title="Sports",Astro Beinsports 1
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein1
+#EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" group-title="Sports",Astro Beinsports 2
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein2
+#EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" group-title="Sports",Astro Beinsports 3
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein3
