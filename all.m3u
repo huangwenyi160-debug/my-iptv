@@ -3147,6 +3147,186 @@ https://mumt04.tangotv.in/VTV/index.m3u8
 https://mumt05.tangotv.in/PRAGNEWS/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="JayaMax.in@SD",Jaya Max (576p)
 http://ajkiptv.ridsys.in/riptv/live/JAYA_MAX/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDSports.in@SD",DD Sports SD (720p)
+http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NDTVIndia.in@SD",NDTV India (720p)
+http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="EpicMusic.in@SD",Epic Music (720p)
+http://103.213.31.109:90/ShowBox/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ShemarooUmang.in@SD",Shemaroo Umang (720p)
+http://103.213.31.109:90/ShemarooUmang/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SangeetBhojpuri.in@SD",Sangeet Bhojpuri (1080p)
+http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ManoranjanMovies.in@SD",Manoranjan Movies (720p)
+http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ManoranjanTV.in@SD",Manoranjan TV (720p)
+http://103.213.31.109:90/ManoranjanTv/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="GoldminesMovies.in@SD",Goldmines Movies (720p)
+http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="GTCPunjabi.in@SD",GTC Punjabi (720p)
+http://103.213.31.109:90/FilmachiBhojpuri/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDIndia.in@SD",DD India (720p)
+http://103.213.31.109:90/DDIndia/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDBharati.in@SD",DD Bharati (720p)
+http://103.213.31.109:90/DDBharati/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Dangal2.in@SD",Dangal 2 (720p)
+http://103.213.31.109:90/Dangal2/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DangalTV.in@SD",Dangal TV (720p)
+http://103.213.31.109:90/Dangal/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (564p)
+http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (720p)
+http://103.213.31.109:90/ChumbakTv/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
+http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="EpicBharat.in@SD",Epic Bharat (720p)
+http://103.213.31.109:90/BigMagic/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="B4UMovies.in@India",B4U Movies (720p)
+http://103.213.31.109:90/B4UMovies/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="B4UKadak.in@SD",B4U Kadak (720p)
+http://103.213.31.109:90/B4UKadak/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (720p)
+http://103.213.31.109:90/B4UBhojpuri/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PTCPunjabi.in@SD",PTC Punjabi (720p)
+http://103.213.31.109:90/ActionCinema/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ABPNews.in@SD",ABP News (720p)
+http://103.213.31.109:90/ABPNews/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Aastha.in@SD",Aastha (720p)
+http://103.213.31.109:90/AasthaSD/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AajTak.in@SD",Aaj Tak (1080p)
+http://103.213.31.109:90/AajtakHD/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ChardiklaTimeTV.in@SD",Chardikla Time TV
+https://cdn-4.pishow.tv/live/1627/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDJharkhand.in@SD",DD Jharkhand
+https://cdn-1.pishow.tv/live/1617/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="9XTashan.in@SD",9X Tashan
+https://cdn-2.pishow.tv/live/1613/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SairamTV.in@SD",Sairam TV
+https://cdn-3.pishow.tv/live/1611/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SVBC4.in@SD",SVBC 4
+https://cdn-2.pishow.tv/live/1607/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PTCPunjabi.in@SD",PTC Punjabi
+https://cdn-2.pishow.tv/live/1604/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="OdishaTV.in@SD",Odisha TV
+https://cdn-2.pishow.tv/live/1600/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MahaPunjabi.in@SD",Maha Punjabi
+https://cdn-4.pishow.tv/live/1521/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SudarshanNews.in@SD",Sudarshan News
+https://cdn-2.pishow.tv/live/1516/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ReporterTV.in@SD",Reporter TV
+https://cdn-2.pishow.tv/live/1510/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PTCSimran.in@SD",PTC Simran
+https://cdn-6.pishow.tv/live/1503/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PTCMusic.in@SD",PTC Music
+https://cdn-3.pishow.tv/live/1501/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="News7Tamil.in@SD",News 7 Tamil
+https://cdn-3.pishow.tv/live/1498/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NewsNation.in@SD",News Nation
+https://cdn-2.pishow.tv/live/1493/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Nepal1.in@SD",Nepal 1
+https://cdn-6.pishow.tv/live/1490/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MazhavilManorama.in@SD",Mazhavil Manorama
+https://cdn-3.pishow.tv/live/1479/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ManoranjanPrime.in@SD",Manoranjan Prime
+https://cdn-4.pishow.tv/live/1474/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="KashishNews.in@SD",Kashish News
+https://cdn-7.pishow.tv/live/1471/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="KalingaTV.in@SD",Kalinga TV
+https://cdn-4.pishow.tv/live/1470/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="JanamTV.in@SD",Janam TV
+https://cdn-3.pishow.tv/live/1466/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="IshwarBhaktiTV.in@SD",Ishwar Bhakti TV
+https://cdn-2.pishow.tv/live/1464/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="GSTV.in@SD",GS TV
+https://cdn-4.pishow.tv/live/1462/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DharmSandesh.in@SD",Dharm Sandesh
+https://cdn-2.pishow.tv/live/1455/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Aastha.in@SD",Aastha
+https://cdn-1.pishow.tv/live/1454/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NambikkaiTV.in@SD",Nambikkai TV
+https://cdn-3.pishow.tv/live/1389/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MadhaTV.in@SD",Madha TV
+https://cdn-3.pishow.tv/live/1265/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai
+https://cdn-3.pishow.tv/live/1261/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PolimerNews.in@SD",Polimer News
+https://cdn-3.pishow.tv/live/1245/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="KaumudyTV.in@SD",Kaumudy TV
+https://cdn-3.pishow.tv/live/1237/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SaiTV.in@SD",Sai TV
+https://cdn-3.pishow.tv/live/1235/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="GangaurTV.in@SD",Gangaur TV
+https://cdn-2.pishow.tv/live/1221/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="BharatExpress.in@SD",Bharat Express
+https://cdn-2.pishow.tv/live/1139/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MoonTV.in@SD",Moon TV
+https://cdn-4.pishow.tv/live/1121/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="RepublicBharat.in@SD",Republic Bharat
+https://cdn-2.pishow.tv/live/1053/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="IndiaTV.in@SD",India TV
+https://cdn-2.pishow.tv/live/1043/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema
+https://cdn-4.pishow.tv/live/1033/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="RongeenTV.in@SD",Rongeen TV
+https://cdn-4.pishow.tv/live/1029/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="BalleBalle.in@SD",Balle Balle
+https://cdn-4.pishow.tv/live/987/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ShubhsandeshTV.in@SD",Shubhsandesh TV
+https://cdn-2.pishow.tv/live/457/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PTCPunjabiGold.in@SD",PTC Punjabi Gold
+https://cdn-7.pishow.tv/live/450/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="B4UMovies.in@India",B4U Movies
+https://cdn-2.pishow.tv/live/419/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SakshiTV.in@SD",Sakshi TV
+https://cdn-1.pishow.tv/live/409/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MahaaNews.in@SD",Mahaa News
+https://cdn-1.pishow.tv/live/401/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TV5News.in@SD",TV5 News
+https://cdn-1.pishow.tv/live/387/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NTVTelugu.in@SD",NTV Telugu
+https://cdn-1.pishow.tv/live/383/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="RepublicKannada.in@SD",Republic Kannada
+https://cdn-3.pishow.tv/live/298/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SubhavaarthaTV.in@SD",Subhavaartha TV
+https://cdn-1.pishow.tv/live/278/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NewsIndia24x7.in@SD",News India 24x7
+https://cdn-3.pishow.tv/live/273/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="RepublicTV.in@SD",Republic TV
+https://cdn-2.pishow.tv/live/271/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="RepublicBangla.in@SD",Republic Bangla
+https://cdn-4.pishow.tv/live/270/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AasthaTelugu.in@SD",Aastha Telugu
+https://cdn-1.pishow.tv/live/262/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla
+https://cdn-4.pishow.tv/live/241/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AasthaKannada.in@SD",Aastha Kannada
+https://cdn-3.pishow.tv/live/234/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="B4UKadak.in@SD",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AyushTV.in@SD",Ayush TV
+https://cdn-6.pishow.tv/live/221/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SansadTV2.in@SD",Sansad TV 2
+https://cdn-2.pishow.tv/live/39/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDBangla.in@SD",DD Bangla
+https://cdn-4.pishow.tv/live/37/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDArunPrabha.in@SD",DD Arun Prabha
+https://cdn-4.pishow.tv/live/32/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDSahyadri.in@SD",DD Sahyadri
+https://cdn-3.pishow.tv/live/30/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDChandana.in@SD",DD Chandana
+https://cdn-3.pishow.tv/live/28/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDMalayalam.in@SD",DD Malayalam
+https://cdn-3.pishow.tv/live/27/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDTamil.in@SD",DD Tamil
+https://cdn-2.pishow.tv/live/26/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDPunjabi.in@SD",DD Punjabi
+https://cdn-4.pishow.tv/live/24/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDKashir.in@SD",DD Kashir
+https://cdn-6.pishow.tv/live/16/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDNews.in@SD",DD News
+https://cdn-2.pishow.tv/live/12/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SafariTV.in@SD",Safari TV
+https://cdn-6.pishow.tv/live/1513/master.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
