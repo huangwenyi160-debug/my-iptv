@@ -1077,6 +1077,8 @@ http://118.81.195.79:9003/hls/31/index.m3u8
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV9.cn@SD",CCTV-9 (576i)
 https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 group-title="China" tvg-id="CCTV5Plus.cn@SD",CCTV-5+ (576i)
+http://69.30.246.194/live/cctv5p.m3u8
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -2914,8 +2916,6 @@ http://103.229.254.25:7001/play/a070/index.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeBiharJharkhand.in@SD",Zee Bihar Jharkhand (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeBiskope.in@SD",Zee Biskope (576p)
-http://116.90.120.151:8000/play/a0kf/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeBollymovies.in@SD",Zee Bollymovies (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeBollymovies.in@Australia",Zee Bollymovies Australia (1080p) [Geo-blocked]
@@ -3555,6 +3555,16 @@ http://103.154.3.101:5001/live/429.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY%20PAL.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonySAB.in@HD",Sony SAB HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20SAB%20HD.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
+https://mini.allinonereborn.fun/tata.php?id=11819
+#EXTINF:-1 group-title="India" tvg-id="JothiTV.in@SD",Jothi TV (1080p)
+http://103.154.3.101:5001/live/2768.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZeeBiskope.in@SD",Zee Biskope (576p)
+http://103.154.3.101:5001/live/559.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AndxplorHD.in@HD",&xplor HD (720p)
+https://mini.allinonereborn.fun/tata.php?id=11619
+#EXTINF:-1 group-title="India" tvg-id="HistoryTV18.in@HD",History TV18 HD (1080p)
+http://103.154.3.101:5001/live/577.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
