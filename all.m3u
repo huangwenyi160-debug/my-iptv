@@ -1726,6 +1726,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 #EXTINF:-1 group-title="Japan" tvg-id="JOEXDTV.jp@SD",JOEX-DTV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="Japan" tvg-id="Animax.jp@SD",Animax (576p)
+#EXTVLCOPT:http-referrer=https://utako.moe
+https://nl.utako.moe/Animax/index.m3u8
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -2769,8 +2772,6 @@ http://103.229.254.25:7001/play/a0dd/index.m3u8
 http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarMaaGold.in@SD",Star Maa Gold (576p)
 http://103.121.6.5:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p)
-http://116.90.120.151:8000/play/a0ka/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Starnet.in@SD",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
@@ -3327,8 +3328,6 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%202.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY%20MAX.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyMax.in@HD",Sony Max HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
-#EXTINF:-1 group-title="India" tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonySportsTen5.in@SD",Sony Sports Ten 5 (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonySportsTen5.in@HD",Sony Sports Ten 5 HD (1080p) [Geo-blocked]
@@ -3567,6 +3566,12 @@ https://mini.allinonereborn.fun/tata.php?id=11619
 http://103.154.3.101:5001/live/577.m3u8
 #EXTINF:-1 group-title="India" tvg-id="TV13Gujarati.in@SD",TV13 Gujarati (720p)
 https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
+https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&uid=gana-sunega&pass=krish-ka
+#EXTINF:-1 group-title="India" tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=gana-sunega&pass=krish-ka
+#EXTINF:-1 group-title="India" tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p)
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
