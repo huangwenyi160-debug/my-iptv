@@ -1961,6 +1961,8 @@ http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Indonesia",AXN Asia Indonesia (1080p) [Geo-blocked]
 http://103.58.160.157:8278/720-AXN/playlist.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Indonesia",AXN Asia Indonesia (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
