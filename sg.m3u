@@ -49,3 +49,5 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 http://103.58.160.157:8278/720-AXN/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia",AXN Asia Indonesia (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@Indonesia",Nickelodeon Asia Indonesia (1080p)
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
