@@ -1115,6 +1115,10 @@ http://118.81.195.79:9003/hls/31/index.m3u8
 http://cjcrcb.top:65500/udp/238.125.0.189:5140
 #EXTINF:-1 group-title="China" tvg-id="XinjiangTV2.cn@SD",Xinjiang TV 2
 http://cjcrcb.top:65500/udp/238.125.3.131:5140
+#EXTINF:-1 group-title="China" tvg-id="CCTV11.cn@SD",CCTV-11
+https://xykt-fix.github.io/play/a02b/index.m3u8
+#EXTINF:-1 group-title="China" tvg-id="CCTV15.cn@SD",CCTV-15 (1080p)
+https://xykt-fix.github.io/play/a02e/index.m3u8
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -3559,8 +3563,6 @@ http://103.122.249.134:8000/play/a05f
 http://103.122.249.134:8000/play/a04y
 #EXTINF:-1 group-title="India" tvg-id="SonyMax.in@HD",Sony Max HD (1080p)
 http://103.122.249.134:8000/play/a05a
-#EXTINF:-1 group-title="India" tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
-http://103.122.249.134:8000/play/a04h
 #EXTINF:-1 group-title="India" tvg-id="SonySportsTen5.in@HD",Sony Sports Ten 5 HD (1080p)
 http://103.122.249.134:8000/play/a03d
 #EXTINF:-1 group-title="India" tvg-id="Sonic.in@SD",Sonic (576p)
