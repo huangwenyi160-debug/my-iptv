@@ -2011,14 +2011,14 @@ https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8
 http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 #EXTINF:-1 group-title="Singapore" tvg-id="ROCKAction.sg@SD",ROCK Action (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
-#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Indonesia",AXN Asia Indonesia (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 group-title="Singapore" tvg-id="HITS.sg@SD",HITS (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
 #EXTINF:-1 group-title="Singapore" tvg-id="HITSMovies.sg@HD",HITS Movies HD (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
 #EXTINF:-1 group-title="Singapore" tvg-id="NickelodeonAsia.sg@Indonesia",Nickelodeon Asia Indonesia (720p)
 http://202.169.224.202:8800/udp/239.9.1.17:1234
+#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Indonesia",AXN Asia Indonesia (1080p)
+https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2146,6 +2146,8 @@ https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="SCTVPhimTongHop.vn@SD",SCTV Phim Tong Hop (720p)
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTV3.vn@SD",HTV3
+https://liveh12byt.vtvprime.vn/hls/HTV3/03.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="9XJalwa.in@SD",9X Jalwa (1080p)
 https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
@@ -3651,6 +3653,8 @@ http://149.71.34.166:8000/play/a06c/index.m3u8
 http://149.71.34.166:8000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ColorsInfinity.in@HD",Colors Infinity HD (1080p)
 http://149.71.34.166:8002/play/a01d/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MediBizTV.in@SD",MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
@@ -3676,5 +3680,3 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 group-title="Philippines" tvg-id="TeleRadyo.ph@HD",TeleRadyo (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
-#EXTINF:-1 group-title="Philippines" tvg-id="GTV.ph@SD",GTV (1080p)
-http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8
