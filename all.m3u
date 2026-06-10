@@ -1742,12 +1742,8 @@ http://202.60.106.14:8080/1335/playlist.m3u8
 https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
 #EXTINF:-1 group-title="Japan" tvg-id="JORXDTV.jp@SD",JORX-DTV
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="NHKKishouSaigai.jp@SD",NHK Kishou Saigai (360p) [Not 24/7]
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldPremium.jp@SD",NHK World Premium (720p) [Not 24/7]
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (1080p)
-https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (720p)
@@ -3290,8 +3286,6 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202%20HD.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonySportsTen3Hindi.in@HD",Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
-http://103.253.18.58:8000/play/a00l
 #EXTINF:-1 group-title="India" tvg-id="StarBharat.in@SD",Star Bharat (576p)
 http://103.253.18.58:8000/play/a00u
 #EXTINF:-1 group-title="India" tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
