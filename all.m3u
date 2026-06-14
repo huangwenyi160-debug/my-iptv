@@ -1258,6 +1258,8 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_servi
 https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942
 #EXTINF:-1 group-title="Malaysia" tvg-id="TVIKIM.my@SD",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV3.my@SD",TV3 (576p)
+https://m3u.chanox97.workers.dev/tv3.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="AFBTVKupang.id@SD",AFBTV Kupang (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://afbtvkupang.com/
@@ -1550,8 +1552,6 @@ https://live.salira.tv/p/3870/hybrid/play.m3u8
 https://live.salira.tv:3870/stream/play.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="SampitTV.id@SD",Sampit TV (720p) [Not 24/7]
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="SangajiTV.id@SD",Sangaji TV (720p) [Not 24/7]
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="SelaparangTV.id@SD",Selaparang TV (720p)
 #EXTVLCOPT:http-referrer=https://selaparangtv.net
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
@@ -1725,12 +1725,13 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
 #EXTINF:-1 group-title="Indonesia" tvg-id="TheIndonesiaChannel.id@SD",The Indonesia Channel (1080p)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="SangajiTV.id@SD",Sangaji TV (720p)
+#EXTVLCOPT:http-referrer=https://sangajitv.co.id/
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 
 #EXTINF:-1 group-title="Japan" tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="Dlife.jp@SD",Dlife (1080p)
-https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
 #EXTINF:-1 group-title="Japan" tvg-id="",Gaki no Tsukai (English Subs) (720p)
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="GSTV.jp@SD",GSTV (720p)
@@ -1741,8 +1742,6 @@ https://ntv5.mov3.co/hls/ntv.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="JORXDTV.jp@SD",JORX-DTV
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="NHKWorldPremium.jp@SD",NHK World Premium (720p) [Not 24/7]
-https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (720p)
