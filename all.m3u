@@ -1760,8 +1760,6 @@ https://stream3.shopch.jp/HLS/master.m3u8
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="Weathernews.jp@SD",Weathernews (720p)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="Weathernews.jp@SD",Weathernews (720p)
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -2129,6 +2127,36 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV9.vn@HD",VTV9 HD (1080p) [Geo-blocked]
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV10.vn@SD",VTV10 (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV6.vn@HD",VTV6 (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV1.vn@HD",VTV1 HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV2.vn@HD",VTV2 HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV3.vn@HD",VTV3 HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv3-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV4.vn@HD",VTV4 HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV5.vn@HD",VTV5 HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV6.vn@HD",VTV6 (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV7.vn@HD",VTV7 HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv7-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV8.vn@HD",VTV8 HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV9.vn@HD",VTV9 HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv9-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV5TayNamBo.vn@HD",VTV5 Tay Nam Bo HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV5TayNguyen.vn@HD",VTV5 Tay Nguyen HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VietnamToday.vn@HD",Vietnam Today (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV10.vn@HD",VTV10 (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6-manifest.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
