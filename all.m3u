@@ -3741,6 +3741,8 @@ https://account31.livebox.co.in/saitvhls/live.m3u8
 http://41.205.64.66/STAR-PLUS/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeTV.in@HD",Zee TV HD (720p)
 http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
+https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
