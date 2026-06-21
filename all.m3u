@@ -1318,9 +1318,6 @@ https://flv.intechmedia.net/live/ch112.m3u8
 http://175.158.57.130:8888/stream/channelid/1402218159
 #EXTINF:-1 group-title="Indonesia" tvg-id="BRTV.id@SD",BRTV (720p)
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="BTV.id@SD",BTV (1080p)
-#EXTVLCOPT:http-referrer=https://www.beritasatu.com/btv-live-streaming
-https://xtdslboppkkv-pull.bpmedialive.com/live/btv/abr.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="BungoTV.id@SD",Bungo TV (480p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="CarubanTV.id@HD",Caruban TV (1080p)
@@ -3851,6 +3848,25 @@ https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarPlus.in@SD",StarPlus (576p)
 http://41.205.93.154/STAR-PLUS/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DangalTV.in@SD",Dangal TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/17/17_0.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Dangal2.in@SD",Dangal 2 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/18/18_0.m3u8
+#EXTINF:-1 group-title="India" tvg-id="GoldminesBollywood.in@SD",Goldmines Bollywood (576p)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NationalGeographicWild.in@HD",National Geographic Wild HD (720p)
+http://217.20.112.199:8080/natgeowild/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DisneyStories.in@SD",Disney Stories (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="D2hKids.in@SD",D2h Kids (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DishBuzz.in@SD",Dish Buzz (720p)
+http://217.20.112.199:8080/animalplanet/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SonyMarathi.in@SD",Sony Marathi (720p)
+http://217.20.112.199:8080/sonymarathi/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
