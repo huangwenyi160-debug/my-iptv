@@ -1055,6 +1055,10 @@ http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 group-title="China" tvg-id="HeilongjiangTV.cn@SD",黑龙江卫视 (2160p)
 http://118.81.195.79:9003/hls/31/index.m3u8
+#EXTINF:-1 group-title="China" tvg-id="CCTV1.cn@SD",CCTV-1
+https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+#EXTINF:-1 group-title="China" tvg-id="CGTN.cn@SD",CGTN (720p)
+https://0472.org/hls/cgtn.m3u8
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -1989,6 +1993,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="Vasantham.sg@SD",Vasantham
 https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@SD",Animax Asia (480i) [Geo-blocked]
+https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
+#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Thailand",AXN Asia Thailand (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://54.37.19.157/axn/playlist.m3u8
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -3867,6 +3876,16 @@ https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 http://217.20.112.199:8080/animalplanet/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyMarathi.in@SD",Sony Marathi (720p)
 http://217.20.112.199:8080/sonymarathi/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Superhitz.in@SD",Superhitz (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Unite8Sports2.in@HD",Unite8 Sports 2 HD
+https://mini.allinonereborn.fun/tata.php?id=11624
+#EXTINF:-1 group-title="India" tvg-id="ZeeAction.in@SD",Zee Action (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/270/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="GTCPunjabi.in@SD",GTC Punjabi (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/772/master.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
