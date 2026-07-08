@@ -1065,6 +1065,8 @@ http://45.165.82.19/test/index.m3u8
 http://217.20.112.199:8080/cgtn/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CNDFilmMiddleSchoolChannel.cn@SD",CND Film Middle School Channel
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+#EXTINF:-1 group-title="China" tvg-id="CGTNSpanish.cn@SD",CGTN Spanish (1080p)
+http://45.6.4.35/CGTN/index.m3u8
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -1736,6 +1738,8 @@ https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="TVRISport.id@SD",TVRI Sport (1080p)
 http://157.15.187.3:25092/hls/49/49.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="dTVi.id@SD",dTVi
+https://e.siar.us/live/dtvi.m3u8
 
 #EXTINF:-1 group-title="Japan" tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
@@ -1951,6 +1955,8 @@ http://202.60.106.14:8080/214/playlist.m3u8
 http://202.60.106.14:21585/214/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="KBSWorld.kr@SD",KBS World (576p)
 http://31.148.48.15/KBS_World/index.m3u8
+#EXTINF:-1 group-title="Korea" tvg-id="ArirangTV.kr@HD",Arirang TV HD (720p)
+http://45.162.64.114/ARIRANG/index.m3u8
 
 #EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@India",Animax Asia India (1080p) [Geo-blocked]
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
@@ -2743,8 +2749,6 @@ http://103.72.101.252:8080/live/579.m3u8
 https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="India" tvg-id="HornbillTV.in@SD",Hornbill TV (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="HungamaTV.in@SD",Hungama TV (576p)
-http://149.71.34.166:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="IndiaDailyLive.in@SD",India Daily Live (1080p)
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD",India News Madhya Pradesh/Chhattisgarh (576p)
