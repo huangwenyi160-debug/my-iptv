@@ -1221,8 +1221,6 @@ https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1 group-title="Malaysia" tvg-id="BeritaRTM.my@SD",Berita RTM [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-#EXTINF:-1 group-title="Malaysia" tvg-id="CinemaWorld.my@SD",CinemaWorld (720p)
-http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="MaahTV.my@SD",Maah TV (720p)
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="NTV7.my@SD",NTV7
@@ -3854,7 +3852,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 http://217.20.112.199:8080/animalplanet/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyMarathi.in@SD",Sony Marathi (720p)
 http://217.20.112.199:8080/sonymarathi/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="Superhitz.in@SD",Superhitz (720p)
+#EXTINF:-1 group-title="India" tvg-id="FillkaTV.pe@SD",Fillka TV (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Unite8Sports2.in@HD",Unite8 Sports 2 HD
 https://mini.allinonereborn.fun/tata.php?id=11624
