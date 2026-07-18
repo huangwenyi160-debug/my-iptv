@@ -1798,6 +1798,8 @@ https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="Weathernews.jp@SD",Weathernews (720p)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (576p)
+https://cdn-7.pishow.tv/live/455/master.m3u8
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -3895,6 +3897,46 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="GoldminesBollywood.in@SD",Goldmines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarPlus.in@HD",StarPlus HD (720p)
+http://tvsen7.aynascope.net/sphdbd/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
+http://tvsen7.aynascope.net/sjhdbd/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarSports1.in@HD",Star Sports 1 HD (720p)
+http://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarSports2.in@HD",Star Sports 2 HD (720p)
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (720p)
+http://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ColorsBangla.in@HD",Colors Bangla HD (720p)
+http://tvsen5.aynascope.net/u3LkNQ7UHhFX/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="RepublicBangla.in@SD",Republic Bangla (576p)
+http://tvsen5.aynascope.net/R_Bangla/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NewsIndia24x7.in@SD",News India 24x7 (576p)
+http://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="RepublicTV.in@SD",Republic TV (576p)
+http://tvsen5.aynascope.net/REPUBLIC_TV/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Bharat24.in@SD",Bharat24 (576p)
+http://tvsen5.aynascope.net/Bharat24Vi/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="News24.in@SD",News 24 (576p)
+http://tvsen5.aynascope.net/News24/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AnjanTV.in@SD",Anjan TV (576p)
+http://tvsen7.aynascope.net/AnjanTV/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TimeTV.in@SD",Time TV (576p)
+http://tvsen5.aynascope.net/timetv/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (576p)
+http://tvsen5.aynascope.net/TV9Bharatvarsh/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
+http://tvsen5.aynascope.net/gUX8BJmNc2yF/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarSportsSelect1.in@HD",Star Sports Select 1 HD (720p)
+http://tvsen7.aynascope.net/sspts1/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarSportsSelect2.in@HD",Star Sports Select 2 HD (720p)
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="FoodFood.in@SD",Food Food (576p)
+http://tvsen7.aynascope.net/FoodFoodTV/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="HindiKhabar.in@SD",Hindi Khabar (576p)
+http://tvsen7.aynascope.net/HindiKhabar/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Pitaara.in@SD",Pitaara (576p)
+http://tvsen7.aynascope.net/pitaara/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
