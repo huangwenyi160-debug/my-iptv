@@ -1729,8 +1729,6 @@ https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="TVRI.id@Riau",TVRI Riau (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRISport.id@SD",TVRI Sport (1080p)
-http://157.15.187.3:25092/hls/49/49.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="TVRISport.id@SD",TVRI Sport (720p)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="TVRI.id@WestSulawesi",TVRI Sulawesi Barat (720p)
@@ -1766,6 +1764,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="ZeeBioskop.id@SD",Zee Bioskop
 #EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
+#EXTINF:-1 group-title="Indonesia" tvg-id="Allegro.id@HD",Allegro (720p)
+https://gist.githubusercontent.com/edgechannels1-ai/60104c033fc6f258800cb589ab3265de/raw/0f4e1404ae6f3d3cf41b6ca5bd6ec8e6f67d17b6/allegroudp.m3u8
 
 #EXTINF:-1 group-title="Japan" tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
@@ -2566,8 +2566,6 @@ http://103.72.101.252:8080/live/1450.m3u8
 http://103.72.101.252:8080/live/196.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ColorsGujaratiCinema.in@SD",Colors Gujarati Cinema (360p)
 http://103.72.101.252:8080/live/1324.m3u8
-#EXTINF:-1 group-title="India" tvg-id="Colors.in@HD",Colors HD (720p)
-https://trs1.aynaott.com/colorshd/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ColorsInfinity.in@SD",Colors Infinity (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/29/29_0.m3u8
@@ -3897,8 +3895,6 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="GoldminesBollywood.in@SD",Goldmines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarPlus.in@HD",StarPlus HD (720p)
-http://tvsen7.aynascope.net/sphdbd/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
 http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarSports1.in@HD",Star Sports 1 HD (720p)
@@ -4110,6 +4106,24 @@ https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HTIMESNOWNAVBHARAT/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SiriKannada.in@SD",Siri Kannada (576p)
 https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PunjabiShorts.in@SD",Punjabi Shorts (1080p)
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SiriKannadaAllTime.in@SD",Siri Kannada All Time (576p)
+https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AssamTalks.in@SD",Assam Talks (576p)
+http://tvsen7.aynascope.net/AssamTalks/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Unite8Sports1.in@SD",Unite8 Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://59.103.38.46:8000/play/a125/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Unite8Sports2.in@SD",Unite8 Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://59.103.38.46:8000/play/a126/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarGold.in@HD",Star Gold HD (1080p) [Not 24/7]
+http://103.253.18.58:8000/play/a00q
+#EXTINF:-1 group-title="India" tvg-id="StarPlus.in@HD",StarPlus HD (1080i)
+http://202.70.146.135:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SonySAB.in@HD",Sony SAB HD (1080i)
+http://202.70.146.135:8000/play/a025/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
