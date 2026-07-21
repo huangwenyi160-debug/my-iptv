@@ -4124,6 +4124,12 @@ http://103.253.18.58:8000/play/a00q
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonySAB.in@HD",Sony SAB HD (1080i)
 http://202.70.146.135:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
+http://38.96.178.205/SONYHD/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZeeTV.in@SD",Zee TV (576p)
+http://38.96.178.205/ZEE_TV/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarPlus.in@SD",StarPlus (576p)
+http://38.96.178.205/STARPLUS/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
@@ -4149,3 +4155,5 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv
 #EXTINF:-1 group-title="Philippines" tvg-id="KapatidTV5.ph@SD",Kapatid TV 5 (480p) [Geo-blocked]
 https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8
+#EXTINF:-1 group-title="Philippines" tvg-id="KnowledgeChannel.ph@SD",Knowledge Channel (360p)
+https://thinkkast.dpdns.org/tkk-ph/i7/knowledge_channel/knowledge-channel.m3u8
