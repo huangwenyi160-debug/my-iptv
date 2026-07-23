@@ -1250,9 +1250,6 @@ https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc2474987
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="SukeTV.my@SD",Suke TV (720p)
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
-#EXTINF:-1 group-title="Malaysia" tvg-id="SusunTVInternational.my@HD",Susun TV (1080p)
-#EXTVLCOPT:http-referrer=https://susuntv.bamboo-cloud.com/
-https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="TV1.my@SD",TV1 (1080p) [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="TV1.my@SD",TV1 (1080p)
@@ -1278,6 +1275,8 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_servi
 https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942
 #EXTINF:-1 group-title="Malaysia" tvg-id="TVIKIM.my@SD",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-id="CinemaWorld.my@SD",CinemaWorld (720p)
+https://cdn.qd.je/163189/cinemaworld
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="AFBTVKupang.id@SD",AFBTV Kupang (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://afbtvkupang.com/
@@ -2041,6 +2040,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="Vasantham.sg@SD",Vasantham
 https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="ROCKEntertainment.sg@SD",ROCK Entertainment (720p)
+http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -4095,6 +4096,8 @@ http://103.253.18.58:8000/play/a00q
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SonyMax1.in@SD",Sony Max 1 (720p)
+http://103.159.180.34:5001/live/3418.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
