@@ -2042,6 +2042,8 @@ https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8
 http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Taiwan",AXN Asia Taiwan (720p)
 https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
+#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Indonesia",AXN Asia Indonesia (720p)
+https://sra72yz.s.gy/AXN_ASIA_VISION_PLUS
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2238,7 +2240,7 @@ https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV10.vn@HD",VTV10 (1080p)
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VSBetHD.vn@HD",VSBet HD (1080p)
-https://live05.meung.app/live/90865415.m3u8
+https://live05.meung.app/live/16226575.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -2683,17 +2685,11 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla
 https://cdn-4.pishow.tv/live/241/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="EpicBharat.in@SD",Epic Bharat (720p)
-http://103.213.31.109:90/BigMagic/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="EpicBharat.in@SD",Epic Bharat (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/471/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="EpicBhojpuri.in@SD",Epic Bhojpuri (576p)
-http://103.72.101.252:8080/live/3384.m3u8
-#EXTINF:-1 group-title="India" tvg-id="EpicBhojpuri.in@SD",Epic Bhojpuri (576p)
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="EpicMusic.in@SD",Epic Music (720p)
-http://103.213.31.109:90/ShowBox/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="EpicMusic.in@SD",Epic Music (576p)
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="EpicTV.in@SD",Epic TV (576p)
@@ -4105,6 +4101,8 @@ http://tvsen7.aynascope.net/sphdbd/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Colors.in@HD",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://59.103.38.46:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DocuBayTV.in@SD",DocuBay TV (1080p)
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
