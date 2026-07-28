@@ -1807,6 +1807,8 @@ https://cdn-7.pishow.tv/live/455/master.m3u8
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (720p)
 http://170.83.16.50:80/NHK_WORLD/index.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="JOJGDTV.jp@SD",JOJG-DTV (1080i)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -2042,12 +2044,8 @@ https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8
 http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Taiwan",AXN Asia Taiwan (720p)
 https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
-#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Indonesia",AXN Asia Indonesia (720p)
-https://sra72yz.s.gy/AXN_ASIA_VISION_PLUS
 #EXTINF:-1 group-title="Singapore" tvg-id="ROCKEntertainment.sg@SD",ROCK Entertainment
 http://45.144.165.187:8080/live/playidlive/12345/11091.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@SD",Animax Asia (720p)
-https://sra72yz.s.gy/ANIMAX_ASIA_SD
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -4130,7 +4128,3 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv
 https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8
 #EXTINF:-1 group-title="Philippines" tvg-id="KnowledgeChannel.ph@SD",Knowledge Channel (360p)
 https://thinkkast.dpdns.org/tkk-ph/i7/knowledge_channel/knowledge-channel.m3u8
-#EXTINF:-1 group-title="Philippines" tvg-id="OnePH.ph@SD",One PH (720p)
-https://sra72yz.s.gy/ONE_PH_SD
-#EXTINF:-1 group-title="Philippines" tvg-id="OneSports.ph@SD",One Sports (576p)
-https://sra72yz.s.gy/ONE_SPORTS_PH_SD
