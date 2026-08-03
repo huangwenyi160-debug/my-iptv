@@ -2035,6 +2035,10 @@ http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="CNBCAsia.sg@SD",CNBC Asia (720p)
 http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="ROCKAction.sg@HD",ROCK Action HD (576p)
+http://202.169.224.202:8800/udp/239.9.1.1:1234
+#EXTINF:-1 group-title="Singapore" tvg-id="ROCKEntertainment.sg@SD",ROCK Entertainment (576p)
+http://202.169.224.202:8800/udp/239.9.1.8:1234
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2122,8 +2126,6 @@ https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VietnamToday.vn@HD",Vietnam Today (720p)
 https://vtvgolive-failover.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV1.vn@HD",Vĩnh Long TV1 (1080p) [Geo-blocked]
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="TraVinhTV.vn@HD",Vĩnh Long TV5 (1080p) [Geo-blocked]
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV1.vn@HD",VTV1 HD (1080p) [Geo-blocked]
@@ -2232,6 +2234,30 @@ https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VSBetHD.vn@HD",VSBet HD (1080p)
 https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV1.vn@HD",Vinh Long TV 1 (576p) [Not 24/7]
+http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SonLaTV.vn@SD",Son La TV (720p)
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV2.vn@SD",Vinh Long TV 2 (1080p)
+https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="CanThoTV2.vn@SD",Can Tho TV 2 (1080p)
+https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HaTinhTV.vn@SD",Ha Tinh TV (720p)
+https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="NinhThuanTV.vn@SD",Ninh Thuan TV (1080p)
+https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
+#EXTINF:-1 group-title="Vietnam" tvg-id="KhanhHoaTV.vn@SD",Khanh Hoa TV (1080p)
+https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
+#EXTINF:-1 group-title="Vietnam" tvg-id="DienBienTV.vn@SD",Dien Bien TV (1080p)
+https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTVKey.vn@SD",HTV Key (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 group-title="Vietnam" tvg-id="DongNaiTV2.vn@SD",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="TraVinhTV.vn@SD",Tra Vinh TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONVieDrama.vn@SD",ON Vie Drama (720p)
+http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -4082,6 +4108,12 @@ https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="B4UMusic.in@APAC",B4U Music APAC (720p)
+https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
+#EXTINF:-1 group-title="India" tvg-id="B4UMovies.in@APAC",B4U Movies APAC (720p)
+https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZeeCinema.in@ME",Zee Cinema ME (432p) [Geo-blocked]
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
