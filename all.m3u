@@ -1995,6 +1995,7 @@ http://202.60.106.14:8080/214/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="YTN.kr@SD",YTN (720p)
 http://202.60.106.14:21585/214/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="KBSWorld.kr@SD",KBS World (720p)
+#EXTVLCOPT:http-referrer=https://cinerama.uz/
 https://stream8.cinerama.uz/1448/playlist.m3u8
 
 #EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@India",Animax Asia India (1080p) [Geo-blocked]
@@ -2074,8 +2075,6 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="DongThapTV.vn@SD",Đồng Tháp TV1 (720p)
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="DongThapTV.vn@SD",Đồng Tháp TV1 (720p)
-https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="TienGiangTV.vn@SD",Đồng Tháp TV2 (540p)
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="HaTinhTV.vn@SD",Hà Tĩnh TV (720p)
@@ -2258,6 +2257,14 @@ https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONVieDrama.vn@SD",ON Vie Drama (720p)
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONMovies.vn@SD",ON Movies (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV4.vn@SD",SCTV4 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV3.vn@SD",SCTV3 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV16.vn@SD",SCTV16 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -4114,6 +4121,10 @@ https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
 https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeCinema.in@ME",Zee Cinema ME (432p) [Geo-blocked]
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
+#EXTINF:-1 group-title="India" tvg-id="StarSports2Hindi.in@SD",Star Sports 2 Hindi (720p)
+https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="News24.in@SD",News 24 (576p)
+https://tvsen5.aynaott.com/News24/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
