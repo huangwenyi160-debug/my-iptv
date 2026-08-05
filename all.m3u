@@ -1087,6 +1087,16 @@ https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiangsuPublicNewsChannel.cn@SD",Jiangsu Public & News Channel
 https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+#EXTINF:-1 group-title="China" tvg-id="AnhuiTV.cn@SD",Anhui TV
+https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+#EXTINF:-1 group-title="China" tvg-id="DragonTVInternational.cn@SD",Dragon TV International
+https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+#EXTINF:-1 group-title="China" tvg-id="CCTV6.cn@SD",CCTV-6 [Geo-blocked]
+https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+#EXTINF:-1 group-title="China" tvg-id="HebeiTV.cn@SD",Hebei TV
+https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
+#EXTINF:-1 group-title="China" tvg-id="CCTV5Plus.cn@SD",CCTV-5+
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -1769,6 +1779,28 @@ https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
 https://gist.githubusercontent.com/edgechannels1-ai/60104c033fc6f258800cb589ab3265de/raw/0f4e1404ae6f3d3cf41b6ca5bd6ec8e6f67d17b6/allegroudp.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="EInternational.id@Asia",E International Asia (480p)
 https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="Allegro.id@HD",Allegro (576p)
+https://gist.githubusercontent.com/iptvonlinetv/01ad8017e31f5131cd5fab2111966027/raw/3293793ca90eaa66467b7d8d2f6d8c47ed444ed8/udp50.508.500:8000.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="Ananda.id@HD",Ananda (576p)
+https://gist.githubusercontent.com/iptvonlinetv/253efb11d4505b0467d3beb0d7b9cee5/raw/2a4884309cb80fba93d633f625295cef05ddf573/udp201.908.880:5000.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="Amara.id@HD",Amara (576p)
+https://gist.githubusercontent.com/iptvonlinetv/23a95454a8469d86beac39e49e1b35c1/raw/b981f54ad2df25069b0524b07378d56e3deb608e/udp250.110.700:5100.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="Arena.id@HD",Arena (576p)
+https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="BioskopTelkomVision.id@HD",Bioskop TelkomVision (576p)
+https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="EInternational.id@America",E International (576p)
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="EInternational.id@Asia",E International Asia (576p)
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="EInternational.id@Europe",E International Europe (576p)
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="YOYInternational.id@HD",YOY International (576p)
+https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="GrooviaKanal.id@HD",Groovia Kanal (576p)
+https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="GrooviaKids.id@HD",Groovia Kids (576p)
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 
 #EXTINF:-1 group-title="Japan" tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
@@ -2265,6 +2297,10 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="SCTV16.vn@SD",SCTV16 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONLife.vn@SD",ON Life (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONKids.vn@SD",ON Kids (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=179
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
