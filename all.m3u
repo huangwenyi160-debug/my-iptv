@@ -1310,9 +1310,6 @@ https://akativi.siar.us/live/akativi.m3u8
 http://202.150.161.117:8000/play/AlBahjahTV
 #EXTINF:-1 group-title="Indonesia" tvg-id="AlImanTV.id@SD",Al-Iman TV (720p)
 https://tv.aliman.id/aliman/live.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="Allegro.id@HD",Allegro (1080p)
-#EXTVLCOPT:http-referrer=https://allegrotelkomvision.renderforestsites.com/
-https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="AlWafaTarim.id@SD",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="AntaraTV.id@SD",Antara TV
@@ -1770,16 +1767,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="ZeeBioskop.id@SD",Zee Bioskop
 #EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
-#EXTINF:-1 group-title="Indonesia" tvg-id="Allegro.id@HD",Allegro (720p)
-https://gist.githubusercontent.com/edgechannels1-ai/60104c033fc6f258800cb589ab3265de/raw/0f4e1404ae6f3d3cf41b6ca5bd6ec8e6f67d17b6/allegroudp.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="EInternational.id@Asia",E International Asia (480p)
 https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="Allegro.id@HD",Allegro (576p)
-https://gist.githubusercontent.com/iptvonlinetv/01ad8017e31f5131cd5fab2111966027/raw/3293793ca90eaa66467b7d8d2f6d8c47ed444ed8/udp50.508.500:8000.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="Amara.id@HD",Amara (576p)
-https://gist.githubusercontent.com/iptvonlinetv/23a95454a8469d86beac39e49e1b35c1/raw/b981f54ad2df25069b0524b07378d56e3deb608e/udp250.110.700:5100.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="Arena.id@HD",Arena (576p)
-https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="EInternational.id@Europe",E International Europe (576p)
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="EInternational.id@Asia",E International Asia (576p)
@@ -2059,10 +2048,6 @@ http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="CNBCAsia.sg@SD",CNBC Asia (720p)
 http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="ROCKAction.sg@HD",ROCK Action HD (576p)
-http://202.169.224.202:8800/udp/239.9.1.1:1234
-#EXTINF:-1 group-title="Singapore" tvg-id="ROCKEntertainment.sg@SD",ROCK Entertainment (576p)
-http://202.169.224.202:8800/udp/239.9.1.8:1234
 #EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Philippines",AXN Asia Philippines (576p)
 https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@Philippines",Animax Asia Philippines (576p)
@@ -3798,8 +3783,6 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 http://103.175.73.12:8080/live/270/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeAlwan.ae@SD",Zee Alwan (576p) [Not 24/7]
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeBangla.in@HD",Zee Bangla HD (720p)
-http://217.20.112.199:8080/maamovies/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeBanglaSonar.in@SD",Zee Bangla Sonar (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeBharat.in@SD",Zee Bharat (720p)
@@ -3854,8 +3837,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/maste
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeMarathi.in@SD",Zee Marathi (576p)
 http://103.72.101.252:8080/live/445.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeMarathi.in@HD",Zee Marathi HD (1080p)
-http://103.72.101.252:8080/live/1360.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeNews.in@SD",Zee News (1080p)
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeNews.in@SD",Zee News (1080p)
@@ -4180,10 +4161,24 @@ https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u
 https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeKannada.in@HD",Zee Kannada HD (1080p)
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 group-title="India" tvg-id="SonyPix.in@SD",Sony Pix
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://playyonogames.in/sliv/stream.m3u8?id=1000009258
+#EXTINF:-1 group-title="India" tvg-id="ColorsTamil.in@HD",Colors Tamil HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="EkamraBharatOdia.in@SD",Ekamra Bharat Odia (400p)
+https://live.ekamraott.com/bharat/bharat/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="OnePaschima.in@SD",One Paschima (400p)
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="WOWKidz.in@Hindi",WOW Kidz (720p)
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="India" tvg-id="ColorsRishteyAmericas.in@SD",Colors Rishtey Americas (396p)
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ColorsMENA.in@HD",Colors MENA HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZeeBangla.in@HD",Zee Bangla HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZeeMarathi.in@HD",Zee Marathi HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
