@@ -1821,6 +1821,8 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 http://170.83.16.50:80/NHK_WORLD/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="JOJGDTV.jp@SD",JOJG-DTV (1080i)
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="Animax.jp@SD",Animax (720p)
+https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -2048,12 +2050,12 @@ http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="CNBCAsia.sg@SD",CNBC Asia (720p)
 http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Philippines",AXN Asia Philippines (576p)
-https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@Philippines",Animax Asia Philippines (576p)
-https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="ZeeTVAsiaPacific.sg@SD",Zee TV Asia Pacific (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="Channel8.sg@SD",Channel 8 (720p)
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 group-title="Singapore" tvg-id="ChannelU.sg@SD",Channel U (720p)
+https://cdn.qd.je/163189/chu
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2283,6 +2285,8 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONKids.vn@SD",ON Kids (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV5.vn@HD",SCTV5 (720p)
+https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8?note=TheWavesIPTV
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -4179,6 +4183,13 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeMarathi.in@HD",Zee Marathi HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MTV.in@SD",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MTV.in@HD",MTV HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://maamusic.keralive.workers.dev/v1/master/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
