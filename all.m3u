@@ -2287,6 +2287,28 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 group-title="Vietnam" tvg-id="SCTV5.vn@HD",SCTV5 (720p)
 https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8?note=TheWavesIPTV
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV2.vn@SD",SCTV2 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV6.vn@SD",SCTV6 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV7.vn@SD",SCTV7 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV9.vn@SD",SCTV9 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV11.vn@SD",SCTV11 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV12.vn@SD",SCTV12 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV13.vn@SD",SCTV13 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV14.vn@SD",SCTV14 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV18.vn@SD",SCTV18 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV19.vn@SD",SCTV19 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV20.vn@SD",SCTV20 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -2517,10 +2539,6 @@ http://103.213.31.109:90/B4UKadak/playlist.m3u8
 https://trs1.aynaott.com/B4U_Kadak/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="B4UKadak.in@SD",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="B4UMovies.in@India",B4U Movies (1080p) [Geo-blocked]
-https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="B4UMovies.in@India",B4U Movies (720p)
-http://103.213.31.109:90/B4UMovies/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="B4UMovies.in@India",B4U Movies
 https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="B4UMusic.in@India",B4U Music (576p)
@@ -3047,10 +3065,6 @@ https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8
 http://149.71.34.166:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
 http://103.161.153.165:8000/play/mnh/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="MTV.in@SD",MTV (1080p)
-http://103.72.101.252:8080/live/248.m3u8
-#EXTINF:-1 group-title="India" tvg-id="MTV.in@HD",MTV HD (1080p)
-http://149.71.34.166:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="MusicIndia.in@SD",Music India (576p)
 https://trs1.aynaott.com/MusicIndia/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="NambikkaiTV.in@SD",Nambikkai TV (576p)
@@ -4190,6 +4204,12 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://maamusic.keralive.workers.dev/v1/master/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="UTVPalakkad.in@SD",UTV Palakkad (1080p)
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://103.253.18.58:8000/play/a00o
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
