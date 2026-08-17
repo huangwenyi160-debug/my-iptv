@@ -241,8 +241,6 @@ http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
 http://223.110.245.173/PLTV/4/224/3221225838/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",五星体育 (720p)
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="",亚太台 (480p)
-http://174.127.67.246/live330/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",交城電視台 (576p)
 http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",京视剧场 (576p)
@@ -327,10 +325,6 @@ https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 http://183.207.248.71/gitv/live1/G_NJJK/G_NJJK
 #EXTINF:-1 group-title="China" tvg-id="",南京教科 (576p)
 http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="",南川新闻综合 (360p)
-http://221.5.213.4:30000/1111.m3u8
-#EXTINF:-1 group-title="China" tvg-id="",南川旅游经济 (360p)
-http://221.5.213.4:30000/2222.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",南阳新闻 (1080p) [Not 24/7]
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",南陽公共頻道 (1080p) [Not 24/7]
@@ -1601,8 +1595,6 @@ https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (576p)
 https://cdn-7.pishow.tv/live/455/master.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (1080p) [Geo-blocked]
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (720p)
@@ -1834,8 +1826,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Taiwan",AXN Asia Taiwan (1080p)
 http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 group-title="Singapore" tvg-id="HITSNOW.sg@SD",HITS NOW SD (720p)
-https://usatv.dpdns.org/usatv/hitsnow_sd/index.m3u8
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2101,8 +2091,6 @@ https://dethich.pw/vtv9/index.m3u8
 https://dethich.pw/vtv10/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV2.vn@HD",VTV2 HD (1080p)
 http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="BoxMovie1.vn@SD",Box Movie 1 (720p)
-https://usatv.dpdns.org/usatv/fpt_box_movie_1/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -3852,3 +3840,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 https://stream.kdlc.click/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Philippines" tvg-id="HopeChannelPhilippines.ph@SD",Hope Channel Philippines (1080p)
 https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+#EXTINF:-1 group-title="Philippines" tvg-id="INCRadio.ph@SD",INC Radio (1080p)
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 group-title="Philippines" tvg-id="INCTV.ph@SD",INC TV (1080p)
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
