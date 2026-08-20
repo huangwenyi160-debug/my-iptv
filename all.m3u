@@ -322,8 +322,6 @@ https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",南京教科 (720p) [Not 24/7]
 https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",南京教科 (576p)
-http://183.207.248.71/gitv/live1/G_NJJK/G_NJJK
-#EXTINF:-1 group-title="China" tvg-id="",南京教科 (576p)
 http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",南阳新闻 (1080p) [Not 24/7]
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
@@ -2075,6 +2073,32 @@ https://dethich.pw/vtv9/index.m3u8
 https://dethich.pw/vtv10/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV2.vn@HD",VTV2 HD (1080p)
 http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV1.vn@SD",Vinh Long TV 1 (720p)
+https://dethich.pw/thvl1/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV2.vn@SD",Vinh Long TV 2 (720p)
+https://dethich.pw/thvl2/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV3.vn@SD",Vinh Long TV 3 (720p)
+https://dethich.pw/thvl3/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV4.vn@SD",Vinh Long TV 4 (720p)
+https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="TraVinhTV.vn@SD",Tra Vinh TV (720p)
+https://dethich.pw/thvl5/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTV1.vn@SD",HTV1 (720p)
+https://dethich.pw/htv1/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTV2.vn@SD",HTV2 (720p)
+https://dethich.pw/htv2/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTV3.vn@SD",HTV3 (720p)
+https://dethich.pw/htv3/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTV4.vn@SD",HTV4 (720p)
+https://dethich.pw/htv4/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTV7.vn@SD",HTV7 (720p)
+https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTV9.vn@SD",HTV9 (720p)
+https://dethich.pw/htv9/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="DongNaiTV1.vn@SD",Dong Nai TV 1 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTVSports.vn@SD",HTV Sports
+https://dethich.pw/htvthethao/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
