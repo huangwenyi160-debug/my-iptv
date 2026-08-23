@@ -897,10 +897,6 @@ https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",邗江资讯 (576p)
 http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="",邢台城生
-http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="",邢台综合
-http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiuquanTVNewsComprehensiveChannel.cn@SD",酒泉新闻综合 (576p)
 http://117.156.28.119/270000001111/1110000001/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="",金昌公共頻道 (240p) [Geo-blocked]
@@ -993,6 +989,16 @@ https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
 #EXTINF:-1 group-title="China" tvg-id="QTV1.cn@SD",QTV-1
 http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China" tvg-id="GuangxiVarietyTravelChannel.cn@SD",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China" tvg-id="KangbaTV.cn@SD",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 group-title="China" tvg-id="QTV6.cn@SD",QTV-6
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China" tvg-id="QTV3.cn@SD",QTV-3
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China" tvg-id="QTV4.cn@SD",QTV-4
+http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -1593,6 +1599,8 @@ https://stream3.shopch.jp/HLS/master.m3u8
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (576p)
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="JOTXDTV.jp@SD",JOTX-DTV
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -1816,8 +1824,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Taiwan",AXN Asia Taiwan (1080p)
 http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 group-title="Singapore" tvg-id="HubSports1.sg@SD",Hub Sports 1 (720p)
-https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="CNAInternational.sg@SD",CNA International (576p)
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 
@@ -2515,7 +2521,7 @@ https://cdn-4.pishow.tv/live/24/master.m3u8
 https://cdn-3.pishow.tv/live/30/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="DDSports.in@SD",DD Sports SD (720p)
 http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="DDTamil.in@SD",DD Tamil
+#EXTINF:-1 group-title="India" tvg-id="DDTamil.in@HD",DD Tamil HD (576p)
 https://cdn-2.pishow.tv/live/26/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="DesiChannel.in@SD",Desi Channel (720p)
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
@@ -2930,7 +2936,7 @@ https://namdhari.tv/live/sbs1.m3u8
 http://149.71.34.166:8002/play/a013/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="NationalGeographicWild.in@HD",National Geographic Wild HD (1080p)
 http://149.71.34.166:8002/play/a012/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="EpicBharat.in@SD",Nazara (1080p)
+#EXTINF:-1 group-title="India" tvg-id="EpicBharat.in@Digital",Epic Bharat Digital (1080p)
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 #EXTINF:-1 group-title="India" tvg-id="NDTV24x7.in@SD",NDTV 24x7 (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
@@ -3835,8 +3841,6 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ColorsGujarati.in@SD",Colors Gujarati (396p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
-#EXTINF:-1 group-title="India" tvg-id="SonyBBCEarth.in@HD",Sony BBC Earth HD (720p)
-https://sra72yz.s.gy/SONY_BBC_EARTH_HD.m3u8
 #EXTINF:-1 group-title="India" tvg-id="9XJalwa.in@SD",9X Jalwa (1080p)
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="9XJhakaas.in@SD",9X Jhakaas (1080p)
@@ -4271,7 +4275,7 @@ https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="B4UMusic.in@India",B4U Music (576p)
 https://mumbai-edge.smartplaytv.in/B4uMusic/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="EpicBharat.in@SD",Epic Bharat (1080p)
+#EXTINF:-1 group-title="India" tvg-id="EpicBharat.in@Digital",Epic Bharat Digital (1080p)
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="EpicKids.in@Digital",Epic Kids Digital (1080p)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
@@ -4279,6 +4283,14 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="KappaTV.in@SD",Kappa TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DarshanaTV.in@SD",Darshana TV (576p)
+https://yuppparoriglin.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="India" tvg-id="StarVijay.in@UK",Star Vijay (396p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AsianetMovies.in@HD",Asianet Movies HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZeeTamil.in@HD",Zee Tamil HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
