@@ -1143,6 +1143,10 @@ http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1 group-title="Taiwan" tvg-id="WXTV.tw@SD",唯心電視 (480p)
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="Taiwan" tvg-id="DaAi2.tw@SD",DaAi 2 (1080p)
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+#EXTINF:-1 group-title="Taiwan" tvg-id="MOMOTV.tw@SD",MOMO TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="8TV.my@SD",8TV
 http://cdn6.163189.xyz/163189/8tv
@@ -1619,6 +1623,8 @@ https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldPremium.jp@SD",NHK World Premium (720p)
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (1080p)
+http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -1846,6 +1852,8 @@ http://125.227.210.55:4050/VideoInput/play.ts
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="GlobalTrekker.sg@SD",Global Trekker (720p)
 http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="CrimePlusInvestigationAsia.sg@SD",Crime + Investigation Asia (1080p)
+http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -4395,6 +4403,14 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarPravah.in@HD",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PocketFilms.in@SD",Pocket Films
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
+#EXTINF:-1 group-title="India" tvg-id="6TVTelugu.in@SD",6 TV Telugu (360p)
+https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AajKiKhabar.in@SD",Aaj Ki Khabar (1080p)
+https://stream.ottlive.co.in/aajkikhabar/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="BRKNews.in@SD",BRK News (720p)
+https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
