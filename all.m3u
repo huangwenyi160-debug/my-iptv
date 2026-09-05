@@ -1474,9 +1474,9 @@ http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="TATV.id@SD",TATV (720p) [Not 24/7]
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TegarTVLampung.id@SD",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+#EXTINF:-1 group-title="Indonesia" tvg-id="TegarTVLampung.id@SD",Tegar TV Lampung (480p)
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TegarTVLampung.id@SD",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+#EXTINF:-1 group-title="Indonesia" tvg-id="TegarTVLampung.id@SD",Tegar TV Lampung (480p)
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="TheIndonesiaChannel.id@SD",The Indonesia Channel (1080p)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
@@ -1759,7 +1759,7 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 http://mytv.dothome.co.kr/ch/catv/26.php
 #EXTINF:-1 group-title="Korea" tvg-id="HLAQDTV.kr@SD",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="Korea" tvg-id="HLCNDTV.kr@SD",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
+#EXTINF:-1 group-title="Korea" tvg-id="HLCNDTV.kr@SD",MBC Gwangju (광주 MBC) (1080p)
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="MBCGyeongnamTV.kr@SD",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
@@ -1805,7 +1805,7 @@ http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="HLDGDTV.kr@SD",SBS KNN (1080p) [Not 24/7]
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 group-title="Korea" tvg-id="HLDEDTV.kr@SD",SBS TBC (540p) [Geo-blocked] [Not 24/7]
+#EXTINF:-1 group-title="Korea" tvg-id="HLDEDTV.kr@SD",SBS TBC (540p)
 http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="HLDPDTV.kr@SD",SBS UBC (540p) [Not 24/7]
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
@@ -2493,8 +2493,6 @@ https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="GoldminesBollywood.in@SD",Goldmines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="India" tvg-id="GoldminesMovies.in@SD",Goldmines Movies (720p)
-http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="GoldminesMovies.in@SD",Goldmines Movies (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/51/51_0.m3u8
@@ -2521,8 +2519,6 @@ http://103.213.31.109:90/FilmachiBhojpuri/playlist.m3u8
 http://103.175.73.12:8080/live/772/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="GuaranteeNews.in@SD",Guarantee News (1080p)
 https://guaranteenews.in:8443/live/gnews/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="GulistanNews.in@SD",Gulistan News (720p) [Not 24/7]
-https://live.gulistannews.in/hls/gul.m3u8
 #EXTINF:-1 group-title="India" tvg-id="HamdardTV.ca@SD",Hamdard TV (1080p)
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (1080p)
@@ -4313,8 +4309,6 @@ http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:C8:6A&stream=1110627&extension=
 http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV
 #EXTINF:-1 group-title="India" tvg-id="NationalGeographic.in@SD",National Geographic (576p) [Geo-blocked]
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
-#EXTINF:-1 group-title="India" tvg-id="NENews.in@SD",NE News (576p)
-https://mumt05.tangotv.in/87NeALx2NENEWS/preview.mp4
 #EXTINF:-1 group-title="India" tvg-id="SandeshNews.in@SD",Sandesh News (576p)
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="KNewsIndia.in@SD",K News India (576p)
@@ -4335,6 +4329,16 @@ https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="IndiaVoice.in@SD",India Voice (576p)
 https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="KolkataTV.in@SD",Kolkata TV (576p)
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TheJungleBook.in@SD",The Jungle Book (1080p)
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NENews.in@SD",NE News (576p)
+https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MantavyaNews.in@SD",Mantavya News (576p)
+https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Mango.in@SD",Mango (576p)
+https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
@@ -4344,8 +4348,6 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 group-title="Philippines" tvg-id="CLTV36.ph@SD",CLTV 36 (720p) [Not 24/7]
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1 group-title="Philippines" tvg-id="KapatidTV5.ph@SD",Kapatid TV 5 (480p) [Geo-blocked]
-https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8
 #EXTINF:-1 group-title="Philippines" tvg-id="PremierSports.ph@SD",Premier Sports (1080p)
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1 group-title="Philippines" tvg-id="PremierSports2.ph@SD",Premier Sports 2 (1080p)
