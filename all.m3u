@@ -1058,6 +1058,8 @@ http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-id="MeiAhMovieChannel.hk@SD",Mei Ah Movie Channel (1080p)
 http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+#EXTINF:-1 group-title="Hong Kong" tvg-id="tvNAsia.hk@HD",tvN Asia HD (720p)
+http://58.8.186.128:10005/bysid/2518
 
 #EXTINF:-1 group-title="Taiwan" tvg-id="BeautifulLifeTV.tw@SD",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -1615,6 +1617,12 @@ https://selaparangtv.siar.us/live/selaparangtv.m3u8
 http://ikitv.sqn.at:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="VTV.id@HD",VTV HD (1080p)
 http://ikitv.sqn.at:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="RajawaliTV.id@SD",Rajawali TV
+http://202.150.161.212:5000/live/channel23/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-id="SPOTV.id@SD",SPOTV (720p)
+http://58.8.186.128:10006/bysid/2614
+#EXTINF:-1 group-title="Indonesia" tvg-id="SPOTV2.id@SD",SPOTV 2 (720p)
+http://58.8.186.128:10006/bysid/2630
 
 #EXTINF:-1 group-title="Japan" tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
@@ -1888,6 +1896,14 @@ http://125.227.210.55:4050/VideoInput/play.ts
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="GlobalTrekker.sg@SD",Global Trekker (720p)
 http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="NickJrAsia.sg@HD",Nick Jr. Asia HD (720p)
+http://58.8.186.128:10003/bysid/2330
+#EXTINF:-1 group-title="Singapore" tvg-id="ROCKXStream.sg@HD",ROCK X Stream (720p)
+http://58.8.186.128:10007/bysid/2811
+#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Thailand",AXN Asia Thailand (720p)
+http://58.8.186.128:10007/bysid/2814
+#EXTINF:-1 group-title="Singapore" tvg-id="ROCKEntertainment.sg@HD",ROCK Entertainment HD (720p)
+http://58.8.186.128:10006/bysid/2612
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2001,8 +2017,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="SCTV20.vn@SD",SCTV20 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="SonLaTV.vn@SD",Son La TV (720p)
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="TayNinhTV.vn@SD",Tây Ninh TV (720p)
 https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="ThaiNguyenTV.vn@SD",Thái Nguyên TV (720p)
@@ -2578,9 +2592,6 @@ http://103.72.101.252:8080/live/420.m3u8
 http://103.72.101.252:8080/live/419.m3u8
 #EXTINF:-1 group-title="India" tvg-id="JK24x7News.in@SD",JK 24x7 News (720p) [Not 24/7]
 https://live.gulistannews.in/hls/jk.m3u8
-#EXTINF:-1 group-title="India" tvg-id="Jonack.in@SD",Jonack (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/676/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Jonack.in@SD",Jonack (576p)
 https://cdn.pishow.tv/ott/live/10006/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Jonack.in@SD",Jonack TV (360p) [Not 24/7]
@@ -4395,6 +4406,36 @@ http://107.167.16.138/zeetalkies/index.m3u8?token=test
 http://107.167.16.138/dhamaal/index.m3u8?token=test
 #EXTINF:-1 group-title="India" tvg-id="PolimerNews.in@SD",Polimer News (576p)
 http://107.167.16.138/polimernews/index.m3u8?token=test
+#EXTINF:-1 group-title="India" tvg-id="NHTamilGold.in@HD",NH Tamil Gold (1080p)
+https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+#EXTINF:-1 group-title="India" tvg-id="VRLive.in@SD",VR Live (720p)
+https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
+#EXTINF:-1 group-title="India" tvg-id="VistaarNews.in@SD",Vistaar News (1080p)
+https://stream.ottlive.co.in/vistaartv/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="UTVPalakkad.in@SD",UTV Palakkad (1080p)
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="UBangla.in@SD",U Bangla (1080p)
+https://stream.ottlive.co.in/ubangla/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TV45.in@SD",TV45 (1080p)
+https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TV30India.in@SD",TV30 India (1080p)
+https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TV27News.in@SD",TV27 News (360p)
+https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TopNewsMarathi.in@SD",Top News Marathi (1080p)
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TheVoiceTV.in@SD",The Voice TV (1080p)
+https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SuriyanTV.in@SD",Suriyan TV (576p)
+https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AsianNews.in@SD",Asian News (1080p)
+https://stream.ottlive.co.in/asiannews/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Asianet.in@HD",Asianet HD (360p) [Not 24/7]
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b696000.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Asianet.in@HD",Asianet HD (720p) [Not 24/7]
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ColorsSuper.in@SD",Colors Super (396p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
