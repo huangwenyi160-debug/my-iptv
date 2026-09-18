@@ -4800,6 +4800,10 @@ https://mumt04.tangotv.in/m18aqlK4AAJKIKHABAR/index.m3u8
 https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="GTCPunjabi.in@SD",GTC Punjabi (1080p)
 https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="HSTV.in@SD",HSTV (720p)
+https://live.castmaxcloud.com/live/hstv.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (720p)
+https://live.castmaxcloud.com/live/sdsangam2.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
