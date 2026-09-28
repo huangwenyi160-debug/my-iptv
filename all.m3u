@@ -1865,6 +1865,10 @@ https://xyktmobile00.s.gy/PPV922_GOLF_TV
 https://xyktmobile00.s.gy/PPV930_S_OPERA_SD
 #EXTINF:-1 group-title="Korea" tvg-id="SBS.kr@SD",SBS [Geo-blocked]
 https://xyktmobile00.s.gy/PPV921_SBS
+#EXTINF:-1 group-title="Korea" tvg-id="PoyoTV.kr@SD",Poyo TV [Geo-blocked]
+https://xyktmobile00.s.gy/PPV936_PORORO_HD
+#EXTINF:-1 group-title="Korea" tvg-id="Tooniverse.kr@SD",Tooniverse [Geo-blocked]
+https://xyktmobile00.s.gy/PPV939_TOONCAST
 
 #EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@India",Animax Asia India (1080p) [Geo-blocked]
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
@@ -1918,6 +1922,8 @@ http://58.8.186.128:10007/bysid/2814
 http://58.8.186.128:10006/bysid/2612
 #EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Philippines",AXN Asia Philippines (576p)
 https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="ZooMoo.sg@SD",ZooMoo (1080p)
+http://168.196.127.137:6001/play/a03k/index.m3u8
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
