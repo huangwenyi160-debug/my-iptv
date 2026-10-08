@@ -1013,6 +1013,10 @@ http://45.186.106.147:8880/play/a06f/index.m3u8
 http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XizangTVChinese.cn@SD",Xizang TV Chinese
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
+#EXTINF:-1 group-title="China" tvg-id="DongguanComprehensiveNewsChannel.cn@SD",Dongguan Comprehensive News Channel
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 group-title="China" tvg-id="DongguanComprehensiveNewsChannel.cn@SD",Dongguan Comprehensive News Channel
+http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -1595,8 +1599,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="RCTI.id@HD",RCTI HD (720p)
 https://mncmedia.malingtv.workers.dev/rcti.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="MNCTV.id@HD",MNCTV HD (720p)
-https://mncmedia.malingtv.workers.dev/mnctv.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="GTV.id@HD",GTV HD
 https://mncmedia.malingtv.workers.dev/gtv.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="iNews.id@HD",iNews HD (720p)
@@ -2925,8 +2927,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ReporterTV.in@SD",Reporter TV
 https://cdn.pishow.tv/ott/live/1510/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="RepublicBangla.in@SD",Republic Bangla (1080p)
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
 #EXTINF:-1 group-title="India" tvg-id="RepublicBangla.in@SD",Republic Bangla
 https://cdn.pishow.tv/ott/live/270/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="RepublicBharat.in@SD",Republic Bharat (1080p) [Geo-blocked]
@@ -4130,7 +4130,7 @@ https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Asianet.in@HD",Asianet HD (360p) [Not 24/7]
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b696000.m3u8
-#EXTINF:-1 group-title="India" tvg-id="Asianet.in@HD",Asianet HD (720p) [Not 24/7]
+#EXTINF:-1 group-title="India" tvg-id="Asianet.in@HD",Asianet HD (1080p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ColorsSuper.in@SD",Colors Super (396p)
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -5210,6 +5210,14 @@ http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 http://103.151.60.162:2122/play/a021/index.m3u8?hls
 #EXTINF:-1 group-title="India" tvg-id="SonySportsTen5.in@SD",Sony Sports Ten 5 (576p)
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
+#EXTINF:-1 group-title="India" tvg-id="MTV.in@SD",MTV (576p)
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="HistoryTV18.in@HD",History TV18 HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://techtraveleat.in/stream.m3u8?id=historytv18eng
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
