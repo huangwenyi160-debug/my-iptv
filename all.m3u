@@ -1032,8 +1032,6 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-id="HOYTV.hk@SD",HOY TV (1080p) [Geo-blocked]
 https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
-#EXTINF:-1 group-title="Hong Kong" tvg-id="KIX.hk@SD",KIX
-https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-id="RTHKTV31.hk@SD",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-id="RTHKTV31.hk@SD",RTHK TV 31 (港台電視31) (360p) [Geo-blocked]
@@ -1070,6 +1068,8 @@ http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-id="tvNAsia.hk@HD",tvN Asia HD (720p)
 http://58.8.186.128:10005/bysid/2518
+#EXTINF:-1 group-title="Hong Kong" tvg-id="KIX.hk@SD",KIX (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
 
 #EXTINF:-1 group-title="Taiwan" tvg-id="BeautifulLifeTV.tw@SD",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -1940,6 +1940,10 @@ https://2x2.me/yTKXaE
 https://2x2.me/BbwzPx
 #EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Malaysia",AXN Asia Malaysia (1080p)
 https://2x2.me/5aE8sA
+#EXTINF:-1 group-title="Singapore" tvg-id="HBOAsia.sg@Taiwan",HBO Asia Taiwan (1080p)
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 group-title="Singapore" tvg-id="CinemaxAsia.sg@HD",Cinemax Asia HD (1080p)
+http://125.227.210.55:1001/VideoInput/play.ts
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2019,8 +2023,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="SCTV4.vn@SD",SCTV4 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV5.vn@HD",SCTV5 (720p)
-https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8?note=TheWavesIPTV
 #EXTINF:-1 group-title="Vietnam" tvg-id="SCTV6.vn@SD",SCTV6 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="SCTV7.vn@SD",SCTV7 (720p)
@@ -2135,6 +2137,8 @@ https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 https://dethich.pw/htvthethao/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="SCTV4K.vn@UHD",SCTV4K (2160p)
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="GiaLaiTV.vn@SD",Gia Lai TV (720p)
+http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -4596,8 +4600,6 @@ http://103.151.60.162:2122/play/a02n/index.m3u8?hls
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
 #EXTINF:-1 group-title="India" tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-#EXTINF:-1 group-title="India" tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
-http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 group-title="India" tvg-id="SunTV.in@HD",Sun TV HD (1080p)
 http://103.151.60.162:2122/play/a02a/index.m3u8?hls
 #EXTINF:-1 group-title="India" tvg-id="Sonic.in@SD",Sonic (576p)
@@ -4674,6 +4676,18 @@ https://techtraveleat.in/stream.m3u8?id=historytv18eng
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="YRFMusic.in@Nepal",YRF Music Nepal
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZeeTamil.in@HD",Zee Tamil HD (1080p)
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
+#EXTINF:-1 group-title="India" tvg-id="CartoonNetwork.in@SD",Cartoon Network (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="CNNNews18.in@SD",CNN News 18 (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="CartoonNetworkHDPlus.in@SD",Cartoon Network HD+ (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DiscoveryKids.in@SD",Discovery Kids (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AnimalPlanet.in@HD",Animal Planet HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
