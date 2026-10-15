@@ -1175,6 +1175,8 @@ https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w117
 http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
 #EXTINF:-1 group-title="Taiwan" tvg-id="MOMOTV.tw@SD",MOMO TV (1080p)
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+#EXTINF:-1 group-title="Taiwan" tvg-id="DiscoveryAsiaTaiwan.tw@SD",Discovery Asia Taiwan (1080p)
+http://125.227.210.55:1004/VideoInput/play.ts
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="8TV.my@SD",8TV
 http://cdn6.163189.xyz/163189/8tv
@@ -1705,6 +1707,8 @@ https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="JOJGDTV.jp@SD",JOJG-DTV (1080p)
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=106
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -1944,6 +1948,10 @@ https://2x2.me/5aE8sA
 http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 group-title="Singapore" tvg-id="CinemaxAsia.sg@HD",Cinemax Asia HD (1080p)
 http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 group-title="Singapore" tvg-id="HBOAsia.sg@SD",HBO Asia SD (720p) [Geo-blocked]
+https://tinyurl.com/yn3d3rmd
+#EXTINF:-1 group-title="Singapore" tvg-id="CinemaxAsia.sg@SD",Cinemax Asia (720p) [Geo-blocked]
+https://tinyurl.com/44efw2rx
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2139,6 +2147,8 @@ https://dethich.pw/htvthethao/index.m3u8
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="GiaLaiTV.vn@SD",Gia Lai TV (720p)
 http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="AnNinhTV.vn@HD",An Ninh TV HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -4688,6 +4698,18 @@ https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AnimalPlanet.in@HD",Animal Planet HD (720p)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Eurosport.in@SD",Eurosport (720p)
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DiscoveryChannel.in@SD",Discovery Channel (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DiscoveryScience.in@SD",Discovery Science (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DiscoveryTurbo.in@SD",Discovery Turbo (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="InvestigationDiscovery.in@SD",Investigation Discovery (720p)
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AnimalPlanet.in@SD",Animal Planet (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
