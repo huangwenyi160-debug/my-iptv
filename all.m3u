@@ -1738,8 +1738,6 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="ArirangTV.kr@SD",Arirang TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
-#EXTINF:-1 group-title="Korea" tvg-id="ArirangTV.kr@SD",Arirang TV
-https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="ArirangTV.kr@HD",Arirang TV HD (720p)
 http://45.162.64.114/ARIRANG/index.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="ArirangUN.kr@SD",Arirang TV UN (1080p)
@@ -1795,8 +1793,6 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="KBSWorld.kr@SD",KBS World (576p)
 http://31.148.48.15/KBS_World/index.m3u8
-#EXTINF:-1 group-title="Korea" tvg-id="KBSWorld.kr@SD",KBS World
-https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="KCTV.kr@SD",KCTV 광주 CH05 (720p) [Not 24/7]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="KTV.kr@SD",Korea TV (1080p)
@@ -1952,6 +1948,8 @@ http://125.227.210.55:1001/VideoInput/play.ts
 https://tinyurl.com/yn3d3rmd
 #EXTINF:-1 group-title="Singapore" tvg-id="CinemaxAsia.sg@SD",Cinemax Asia (720p) [Geo-blocked]
 https://tinyurl.com/44efw2rx
+#EXTINF:-1 group-title="Singapore" tvg-id="CNBCAsia.sg@HD",CNBC Asia HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -4710,6 +4708,8 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AnimalPlanet.in@SD",Animal Planet (720p)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SonyMax1.in@SD",Sony Max 1
+http://27.116.22.53:5001/live/3418.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
