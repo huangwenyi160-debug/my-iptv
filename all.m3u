@@ -1889,6 +1889,8 @@ http://202.60.106.14:8080/214/playlist.m3u8
 http://202.60.106.14:21585/214/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="KBSJoy.kr@SD",KBS Joy [Not 24/7]
 https://xykt-fix.github.io/flv/KJ_W.m3u8
+#EXTINF:-1 group-title="Korea" tvg-id="ArirangTV.kr@HD",Arirang TV HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=111
 
 #EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@India",Animax Asia India (1080p) [Geo-blocked]
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
@@ -2147,6 +2149,8 @@ https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnNinhTV.vn@HD",An Ninh TV HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:-1 group-title="Vietnam" tvg-id="BinhThuanTV.vn@SD",Binh Thuan TV (1080p) [Geo-blocked]
+https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
