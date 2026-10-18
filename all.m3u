@@ -1066,8 +1066,6 @@ http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-id="MeiAhMovieChannel.hk@SD",Mei Ah Movie Channel (1080p)
 http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
-#EXTINF:-1 group-title="Hong Kong" tvg-id="tvNAsia.hk@HD",tvN Asia HD (720p)
-http://58.8.186.128:10005/bysid/2518
 #EXTINF:-1 group-title="Hong Kong" tvg-id="KIX.hk@SD",KIX (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
 
@@ -1629,10 +1627,6 @@ http://ikitv.sqn.at:8000/play/a00l/index.m3u8
 http://ikitv.sqn.at:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="RajawaliTV.id@SD",Rajawali TV
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="SPOTV.id@SD",SPOTV (720p)
-http://58.8.186.128:10006/bysid/2614
-#EXTINF:-1 group-title="Indonesia" tvg-id="SPOTV2.id@SD",SPOTV 2 (720p)
-http://58.8.186.128:10006/bysid/2630
 #EXTINF:-1 group-title="Indonesia" tvg-id="DensFoodChannel.id@SD",Dens Food Channel [Not 24/7]
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="MNCTV.id@HD",MNCTV HD
@@ -2151,6 +2145,8 @@ http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 group-title="Vietnam" tvg-id="BinhThuanTV.vn@SD",Binh Thuan TV (1080p) [Geo-blocked]
 https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="KonTumTV.vn@SD",Kon Tum TV (720p) [Geo-blocked]
+https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -4612,8 +4608,6 @@ http://103.151.60.162:2122/play/a02n/index.m3u8?hls
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
 #EXTINF:-1 group-title="India" tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-#EXTINF:-1 group-title="India" tvg-id="SunTV.in@HD",Sun TV HD (1080p)
-http://103.151.60.162:2122/play/a02a/index.m3u8?hls
 #EXTINF:-1 group-title="India" tvg-id="Sonic.in@SD",Sonic (576p)
 http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 group-title="India" tvg-id="SonyPix.in@HD",Sony Pix HD (1080p)
@@ -4714,6 +4708,18 @@ https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyMax1.in@SD",Sony Max 1
 http://27.116.22.53:5001/live/3418.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SonySAB.in@SD",Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SunTV.in@HD",Sun TV HD (1080p)
+https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SunSurya.in@HD",Sun Surya HD (1080p)
+https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TLC.in@SD",TLC (720p)
+https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TLC.in@HD",TLC HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DiscoveryChannel.in@HD",Discovery Channel HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
