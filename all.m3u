@@ -2073,8 +2073,6 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV5.vn@HD",VTV5 HD (1080p)
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="VTV5TayNguyen.vn@HD",VTV5 Tay Nguyen HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV6.vn@HD",VTV6 (1080p)
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV7.vn@HD",VTV7 HD (1080p)
@@ -2159,6 +2157,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="DongNaiTV3.vn@SD",Dong Nai TV 3 (720p)
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONCine.vn@SD",ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONMusic.vn@SD",ON Music (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=185
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -3838,8 +3840,6 @@ https://cdn.pishow.tv/ott/live/10003/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Nickelodeon.in@SD",Nickelodeon (576p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
-#EXTINF:-1 group-title="India" tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p) [Geo-blocked]
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT
 #EXTINF:-1 group-title="India" tvg-id="AndxplorHD.in@HD",&xplor HD (1080p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
 #EXTINF:-1 group-title="India" tvg-id="SonyMax.in@SD",Sony Max (576p) [Geo-blocked]
@@ -4152,10 +4152,6 @@ https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/News9/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Mastiii.in@SD",Mastiii (576p)
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeTelugu.in@HD",Zee Telugu HD (720p)
-https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeCinemalu.in@HD",Zee Cinemalu HD (720p)
-https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="BhakthiTV.in@SD",Bhakthi TV
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ETVTelugu.in@HD",ETV Telugu HD (1080p)
