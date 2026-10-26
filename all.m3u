@@ -1890,7 +1890,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=111
 
 #EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@India",Animax Asia India (1080p) [Geo-blocked]
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="AniplusAsia.sg@SD",Aniplus Asia (720p)
+#EXTINF:-1 group-title="Singapore" tvg-id="AniplusAsia.sg@SD",Aniplus Asia (720p) [Geo-blocked]
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="Channel8.sg@SD",Channel 8 (720p)
 https://cdn.qd.je/163189/ch8
@@ -1942,6 +1942,8 @@ https://tinyurl.com/yn3d3rmd
 https://tinyurl.com/44efw2rx
 #EXTINF:-1 group-title="Singapore" tvg-id="CNBCAsia.sg@HD",CNBC Asia HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9855
+#EXTINF:-1 group-title="Singapore" tvg-id="AnimaxAsia.sg@Taiwan",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2153,6 +2155,20 @@ https://dethich.pw/vtv5tnb/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONO2TV.vn@SD",ON O2TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONVieGiaiTri.vn@HD",ON Vie Giai Tri (1080i)
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTVSports.vn@SD",HTV Sports (1080i)
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONStyleTV.vn@SD",ON Style TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONVieDramas.vn@SD",ON Vie Dramas (1080i)
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTVCMovies.vn@SD",HTVC Movies (720p)
+https://dethich.pw/htvcphim/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTVCWomen.vn@SD",HTVC Women (720p)
+https://dethich.pw/htvcphunu/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTVCFamily.vn@SD",HTVC Family (720p)
+https://dethich.pw/htvcgiadinh/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -4776,6 +4792,8 @@ https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
 https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ETNowSwadesh.in@SD",ET Now Swadesh (1080p) [Geo-blocked]
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AMNTV.in@SD",AMN TV (576p)
+https://live.onecloudlive.in/amn/amntv/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
