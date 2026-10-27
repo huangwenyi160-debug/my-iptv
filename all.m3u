@@ -1021,6 +1021,8 @@ http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China" tvg-id="XinjiangTV2.cn@SD",Xinjiang TV 2
 https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877
+#EXTINF:-1 group-title="China" tvg-id="CCTV5Plus.cn@SD",CCTV-5+ (1080p)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -2117,8 +2119,6 @@ https://dethich.pw/htv9/index.m3u8
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="HTVSports.vn@SD",HTV Sports
 https://dethich.pw/htvthethao/index.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="SCTV4K.vn@UHD",SCTV4K (2160p)
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="GiaLaiTV.vn@SD",Gia Lai TV (720p)
 http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnNinhTV.vn@HD",An Ninh TV HD (1080p)
