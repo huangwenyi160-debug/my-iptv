@@ -1023,6 +1023,8 @@ http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877
 #EXTINF:-1 group-title="China" tvg-id="CCTV5Plus.cn@SD",CCTV-5+ (1080p)
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+#EXTINF:-1 group-title="China" tvg-id="JingmenComprehensiveNewsChannel.cn@SD",Jingmen Comprehensive News Channel
+https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -5180,9 +5182,6 @@ https://fta.ektv.in/live/247/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AnmolTV.in@SD",Anmol TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/256/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="AnmolCinema2.in@SD",Anmol Cinema 2 (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/257/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ShemarooUmang.in@SD",Shemaroo Umang (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/258/master.m3u8
@@ -5192,9 +5191,6 @@ https://fta.ektv.in/live/259/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeAction.in@SD",Zee Action (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/270/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="AnmolCinema.in@SD",Anmol Cinema (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/271/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ShemarooTV.in@SD",Shemaroo TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/274/master.m3u8
