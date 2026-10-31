@@ -1025,6 +1025,16 @@ https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc995785364
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 group-title="China" tvg-id="JingmenComprehensiveNewsChannel.cn@SD",Jingmen Comprehensive News Channel
 https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
+#EXTINF:-1 group-title="China" tvg-id="QianjiangChannel.cn@SD",Qianjiang Channel
+rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=1886667371-a351173879224e5fbbb4412bf9f96eff-0-de13c2186941a507a27a3438213d2169
+#EXTINF:-1 group-title="China" tvg-id="ZhejiangEconomicChannel.cn@SD",Zhejiang Economic Channel
+rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af
+#EXTINF:-1 group-title="China" tvg-id="ZhejiangEducationTechnologyChannel.cn@SD",Zhejiang Education Technology Channel
+rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b784f0dad521e451a627376-0-810b24f67775043e86a4337d9660392c
+#EXTINF:-1 group-title="China" tvg-id="ZhejiangChildrensChannel.cn@SD",Zhejiang Children's Channel
+rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
+#EXTINF:-1 group-title="China" tvg-id="ZhejiangMinshengLeisure.cn@SD",Zhejiang Minsheng Leisure
+rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -1713,6 +1723,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=106
 https://cdn.pishow.tv/ott/live/455/master.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKGeneralTV.jp@JOJGDTV",NHK General TV JOJG-DTV (1080i)
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/417/master.m3u8
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -1952,6 +1965,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9855
 http://125.227.210.55:3056/VideoInput/play.ts
 #EXTINF:-1 group-title="Singapore" tvg-id="CNAInternational.sg@SD",CNA International (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=112
+#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Indonesia",AXN Asia Indonesia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -4891,7 +4906,7 @@ https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8
 https://cdn.pishow.tv/ott/live/315/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="NDTVGoodTimes.in@SD",NDTV Good Times (576p)
 https://cdn.pishow.tv/ott/live/1285/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="DY365.in@SD",DY 365 (576p)
+#EXTINF:-1 group-title="India" tvg-id="DivyavaniTV.in@SD",Divyavani TV (576p)
 https://cdn.pishow.tv/ott/live/1624/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="TotalTVHaryana.in@SD",Total TV Haryana (576p)
 https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8
@@ -5731,6 +5746,72 @@ https://fta.ektv.in/live/710/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="RepublicBangla.in@SD",Republic Bangla (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/663/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SangeetBangla.in@SD",Sangeet Bangla (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/379/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DivyavaniTV.in@SD",Divyavani TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/382/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SafariTV.in@SD",Safari TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/410/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="EpicBhojpuri.in@SD",Epic Bhojpuri (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/467/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="EpicMusic.in@SD",Epic Music (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/469/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="EpicBharat.in@SD",Epic Bharat (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/471/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="GoldminesAction.in@SD",Goldmines Action (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/584/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MunsifTV.in@SD",Munsif TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/598/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/617/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Sadhna.in@SD",Sadhna (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/620/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SVBC4.in@SD",SVBC 4 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/621/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PrarthanaBhawanTV.in@SD",Prarthana Bhawan TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/623/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DharmSandesh.in@SD",Dharm Sandesh (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/625/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ShubhTV.in@SD",Shubh TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/626/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ShubhsandeshTV.in@SD",Shubhsandesh TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/627/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Vedic.in@SD",Vedic (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/628/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SarvDharmSangam.in@SD",Sarv Dharm Sangam (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/630/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DhoolTV.in@SD",Dhool TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/631/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AwakeningTV.in@SD",Awakening TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/633/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="HopeChannelIndia.in@SD",Hope Channel India (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/634/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="FatehTV.in@SD",Fateh TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/635/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TehzeebTV.in@SD",Tehzeeb TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/636/master.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
