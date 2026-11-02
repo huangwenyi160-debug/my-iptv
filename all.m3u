@@ -2203,6 +2203,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=182
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONBiBi.vn@SD",ON BiBi (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONVieDramas.vn@SD",ON Vie Dramas
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 
 #EXTINF:-1 group-title="India" tvg-id="7SMusic.in@SD",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -5806,6 +5808,12 @@ https://fta.ektv.in/live/635/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="TehzeebTV.in@SD",Tehzeeb TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/636/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NewsMalayalam24x7.in@SD",News Malayalam 24x7 (576p)
+https://cdn.pishow.tv/ott/live/1629/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="WahPunjabi.in@SD",Wah Punjabi (720p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="India" tvg-id="VisionBeats.in@SD",Vision Beats (720p)
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
