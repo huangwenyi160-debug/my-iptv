@@ -1035,6 +1035,8 @@ rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b
 rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
 #EXTINF:-1 group-title="China" tvg-id="ZhejiangMinshengLeisure.cn@SD",Zhejiang Minsheng Leisure
 rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790
+#EXTINF:-1 group-title="China" tvg-id="XizangTVTibetan.cn@SD",Xizang TV Tibetan
+https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="BloombergTV.us@Asia",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -1086,6 +1088,8 @@ http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 #EXTINF:-1 group-title="Hong Kong" tvg-id="KIX.hk@SD",KIX (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
+#EXTINF:-1 group-title="Hong Kong" tvg-id="ViuTV.hk@SD",ViuTV (1080i)
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
 #EXTINF:-1 group-title="Taiwan" tvg-id="BeautifulLifeTV.tw@SD",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -1941,7 +1945,7 @@ http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:-1 group-title="Singapore" tvg-id="HBOAsia.sg@Taiwan",HBO Asia Taiwan (1080p)
 http://125.227.210.55:1003/VideoInput/play.ts
-#EXTINF:-1 group-title="Singapore" tvg-id="CinemaxAsia.sg@HD",Cinemax Asia HD (1080p)
+#EXTINF:-1 group-title="Singapore" tvg-id="CinemaxAsia.sg@Taiwan",Cinemax Asia Taiwan (1080p)
 http://125.227.210.55:1001/VideoInput/play.ts
 #EXTINF:-1 group-title="Singapore" tvg-id="HBOAsia.sg@SD",HBO Asia SD (720p) [Geo-blocked]
 https://tinyurl.com/yn3d3rmd
@@ -5814,6 +5818,8 @@ https://cdn.pishow.tv/ott/live/1629/master.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-title="India" tvg-id="VisionBeats.in@SD",Vision Beats (720p)
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Travelxp.in@Czechia",Travelxp Czechia
+http://88.212.7.14/live/travel_xp/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
