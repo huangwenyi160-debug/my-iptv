@@ -1938,6 +1938,8 @@ http://103.253.74.210:7070/stream/116/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="NickelodeonAsia.sg@SD",Nickelodeon Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/117/index.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="CartoonNetworkAsia.sg@Thailand",Cartoon Network Asia Thailand
+http://103.253.74.210:7070/stream/118/index.m3u8
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnGiangTV1.vn@SD",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -2055,7 +2057,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=184
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONVieDramas.vn@SD",ON Vie Dramas (1080i)
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 group-title="Vietnam" tvg-id="ONVieDramas.vn@SD",ON Vie Dramas
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONVieDramas.vn@SD",ON Vie Dramas (1080p)
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONVieGiaiTri.vn@HD",ON Vie Giai Tri (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=180
@@ -5103,8 +5105,6 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u
 http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyAath.in@SD",Sony Aath (576p)
 http://103.165.93.31:8095/sonyAath/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="SonyBBCEarth.in@HD",Sony BBC Earth HD (1080p)
-http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyPal.in@SD",Sony Pal (576p)
@@ -5119,8 +5119,6 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Spondon.in@SD",Spondon (576p)
 https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarGold.in@HD",Star Gold HD (1080p)
-http://103.185.24.134:3001/Star-Gold/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarJalsha.in@SD",Star Jalsha (1080p) [Geo-blocked]
 http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 #EXTINF:-1 group-title="India" tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
@@ -5616,8 +5614,6 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeCineClassic.in@SD",Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeCinema.in@SD",Zee Cinema (576p)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeComedyNation.in@HD",Zee Comedy Nation (1080p)
@@ -5749,8 +5745,6 @@ https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
 https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeBangla.in@HD",Zee Bangla HD (1080p)
 https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
-https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyYay.in@SD",Sony Yay! (576p)
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyAath.in@SD",Sony Aath (576p)
@@ -5759,14 +5753,6 @@ https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
 https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
 https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarGold.in@HD",Star Gold HD (1080p)
-https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarGoldSelect.in@SD",Star Gold Select (1080p)
-https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="TV7National.in@SD",TV7 National (1080p)
 https://stream.ottlive.co.in/tv7national/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="NDTVRajasthan.in@SD",NDTV Rajasthan (1080p)
