@@ -1704,8 +1704,6 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="ArirangTV.kr@HD",Arirang TV HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=111
-#EXTINF:-1 group-title="Korea" tvg-id="ArirangTV.kr@HD",Arirang TV HD (720p)
-http://45.162.64.114/ARIRANG/index.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="ArirangUN.kr@SD",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="BBSTV.kr@SD",BBS Buddhist Broadcasting (1080p)
@@ -2495,10 +2493,6 @@ https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportugue
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AngelTV.in@Spanish",Angel TV Spanish (720p)
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="AnimalPlanet.in@SD",Animal Planet (720p)
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="AnimalPlanet.in@HD",Animal Planet HD (720p)
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AnjanTV.in@SD",Anjan TV (720p)
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AnjanTV.in@SD",Anjan TV (576p)
@@ -2506,8 +2500,6 @@ https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 https://fta.ektv.in/live/20/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AnjanTV.in@SD",Anjan TV (576p)
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="AnmolTV.in@SD",Anmol TV (720p)
-https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AnmolTV.in@SD",Anmol TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/256/master.m3u8
@@ -2770,10 +2762,6 @@ https://cdn.pishow.tv/ott/live/963/master.m3u8
 https://fta.ektv.in/live/173/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Captain.in@SD",Captain (576p)
 https://mumbai-edge.smartplaytv.in/captain/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="CartoonNetwork.in@SD",Cartoon Network (720p)
-https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="CartoonNetworkHDPlus.in@SD",Cartoon Network HD+ (720p)
-https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="CCV.in@SD",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ChannelDivya.in@SD",Channel Divya (1080p)
@@ -3085,16 +3073,6 @@ https://fta.ektv.in/live/631/master.m3u8
 https://fta.ektv.in/live/378/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="DhoomMusic.in@SD",Dhoom Music (576p)
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="DiscoveryChannel.in@SD",Discovery Channel (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="DiscoveryChannel.in@HD",Discovery Channel HD (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="DiscoveryKids.in@SD",Discovery Kids (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="DiscoveryScience.in@SD",Discovery Science (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="DiscoveryTurbo.in@SD",Discovery Turbo (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="DishaTV.in@SD",Disha TV (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="DisneyChannel.in@HD",Disney Channel HD (1080p)
@@ -3215,8 +3193,6 @@ https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ETVTelugu.in@HD",ETV Telugu HD (1080p)
 https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="Eurosport.in@SD",Eurosport (720p)
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="FaktMarathi.in@SD",Fakt Marathi (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/188/master.m3u8
@@ -3563,8 +3539,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 https://fta.ektv.in/live/160/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Insync.in@SD",Insync (576p)
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="InvestigationDiscovery.in@SD",Investigation Discovery (720p)
-https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="IsaiAruvi.in@SD",Isai Aruvi (396p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="IshwarBhaktiTV.in@SD",Ishwar Bhakti TV (720p)
@@ -5072,8 +5046,6 @@ http://103.165.93.31:8095/sonyAath/index.m3u8
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyPal.in@SD",Sony Pal (576p)
 http://59.103.38.46:8000/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="SonySAB.in@SD",Sony SAB (720p)
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyWah.in@SD",Sony Wah (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SouthStation.in@HD",South Station (1080p)
@@ -5280,10 +5252,6 @@ https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="TimesNowNavbharat.in@HD",Times Now Navbharat HD (1080p)
 https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
-#EXTINF:-1 group-title="India" tvg-id="TLC.in@SD",TLC (720p)
-https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="TLC.in@HD",TLC HD (720p)
-https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="TNPNews.in@SD",TNP News (1080p)
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="TOIGlobal.in@SD",TOI Global (1080p)
@@ -5928,8 +5896,6 @@ https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 https://vglivessai.akamaized.net/ptnr-lg/title-Rplus_Gold/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/33172241-82f7-4c91-8ae8-4754309b66a0/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Asianet.in@HD",Asianet HD (720p)
 https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ASIANETHD.m3u8
-#EXTINF:-1 group-title="India" tvg-id="Pogo.in@SD",Pogo (720p)
-https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Philippines" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
