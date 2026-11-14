@@ -2009,7 +2009,7 @@ https://dethich.pw/htv7/index.m3u8
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="HTVSports.vn@SD",HTV Sports (1080i)
 https://vmttv.dpdns.org/tv360?id=htv-the-thao
-#EXTINF:-1 group-title="Vietnam" tvg-id="HTVSports.vn@SD",HTV Sports
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTVSports.vn@SD",HTV Sports (1080p)
 https://dethich.pw/htvthethao/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="HTVCFamily.vn@SD",HTVC Family (720p)
 https://dethich.pw/htvcgiadinh/index.m3u8
@@ -2151,6 +2151,10 @@ https://dethich.pw/vtv10/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONTrendingTV.vn@SD",ON Trending TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV1.vn@HD",VTV1 HD (720p)
+https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTV7.vn@SD",HTV7 (1080p) [Geo-blocked]
+https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="4SiDESTV.in@SD",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
@@ -5044,8 +5048,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarSports2Telugu.in@HD",Star Sports 2 Telugu HD (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarSportsSelect2.in@HD",Star Sports Select 2 HD (720p)
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarVijay.in@UK",Star Vijay (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Starnet.in@SD",Starnet (480p)
@@ -5495,9 +5497,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Zee24Taas.in@SD",Zee 24 Taas (576p)
 https://streams.tangotv.in/ZEE24TAAS/ORIGIN/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeAction.in@SD",Zee Action (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/270/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeBangla.in@HD",Zee Bangla HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeBangla.in@HD",Zee Bangla HD (720p) [Geo-blocked]
@@ -5600,8 +5599,6 @@ http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
 http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
 http://103.135.253.32:8080/STAR-PLUS/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="JalshaMovies.in@HD",Jalsha Movies HD (1080p)
-http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarJalsha.in@HD",Star Jalsha HD (1080p)
 http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
@@ -5616,8 +5613,6 @@ http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 http://103.135.253.32:8080/POGO/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyAath.in@SD",Sony Aath (576p)
 http://103.135.253.32:8080/SONY_AATH/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="B4UMovies.in@India",B4U Movies (1080p)
-http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Colors.in@HD",Colors HD (1080p)
 https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
@@ -5630,8 +5625,6 @@ https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="JalshaMovies.in@SD",Jalsha Movies (720p)
 https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeBangla.in@HD",Zee Bangla HD (1080p)
-https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyYay.in@SD",Sony Yay! (576p)
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyAath.in@SD",Sony Aath (576p)
@@ -5898,8 +5891,6 @@ http://27.124.71.27/Movies_Now/index.m3u8
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="NewsTVIndia.in@SD",News TV India (720p)
 https://streamlive.livebox.co.in/NewsTVIndiahls/live.m3u8
-#EXTINF:-1 group-title="India" tvg-id="SonyMax1.in@SD",Sony Max 1 (720p)
-https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV
 #EXTINF:-1 group-title="India" tvg-id="ValamTVDayro.in@SD",Valam TV Dayro (576p)
 https://samitaorigin.tangotv.in/VALAMDAIRO/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="PrathamNews.in@SD",Pratham News (576p)
