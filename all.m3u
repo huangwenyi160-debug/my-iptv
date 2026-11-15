@@ -2155,6 +2155,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="HTV7.vn@SD",HTV7 (1080p) [Geo-blocked]
 https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONVFamily.vn@SD",ON V Family (480p)
+https://vmttv.dpdns.org/tv360?id=187
 
 #EXTINF:-1 group-title="India" tvg-id="4SiDESTV.in@SD",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
@@ -2402,8 +2404,6 @@ https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AlrightTV.in@SD",Alright! TV (1080p)
 https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8
-#EXTINF:-1 group-title="India" tvg-id="AmarUjala.in@SD",AmarUjala (1080p)
-https://amarujala.ottlive.co.in/amarujala/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AMNTV.in@SD",AMN TV (576p)
 https://live.onecloudlive.in/amn/amntv/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AmritGurbani.in@SD",Amrit Gurbani (720p)
@@ -2542,10 +2542,6 @@ https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
 https://fta.ektv.in/live/692/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AsianetSuvarnaNews.in@SD",Asianet Suvarna News (1080p) [Not 24/7]
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="AsomLive24.in@SD",Asom Live 24 (576p)
-https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="AssamTalks.in@SD",Assam Talks (576p)
-http://tvsen7.aynascope.net/AssamTalks/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AssamTalks.in@SD",Assam Talks (576p)
 https://cdn.pishow.tv/ott/live/258/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="AssamTalks.in@SD",Assam Talks (576p)
@@ -2727,8 +2723,6 @@ https://jmp2.uk/stvp-IN4000600Q
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-title="India" tvg-id="BRKNews.in@SD",BRK News (720p)
 https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="BRKNews.in@SD",BRK News (576p)
-https://d2gvyg6lvauoko.cloudfront.net/230226/brknews/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-title="India" tvg-id="BRKNews.in@SD",BRK News (576p)
 https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="BSTV.in@SD",BSTV (720p)
