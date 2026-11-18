@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="China" tvg-id="AndoTV.cn@SD",Ando TV (1080p)
 http://play.kankanlive.com/live/1711956137852982.m3u8
-#EXTINF:-1 group-title="China" tvg-id="AnhuiTV.cn@SD",Anhui TV
+#EXTINF:-1 group-title="China" tvg-id="AnhuiTV.cn@SD",Anhui TV (1080p)
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 #EXTINF:-1 group-title="China" tvg-id="AnshunComprehensiveNewsChannel.cn@SD",Anshun Comprehensive News Channel
 https://hplayer1.juyun.tv/camera/154379194.m3u8
@@ -245,6 +245,10 @@ https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XizangTVTibetan.cn@SD",Xizang TV Tibetan (720p) [Not 24/7]
 http://php.jdshipin.com:8880/xztv.php?id=zy
+#EXTINF:-1 group-title="China" tvg-id="YichangSanxiaGeneralChannel.cn@SD",Yichang Sanxia General Channel
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+#EXTINF:-1 group-title="China" tvg-id="YichangSanxiaTravelLifeChannel.cn@SD",Yichang Sanxia Travel & Life Channel
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZhejiangChildrensChannel.cn@SD",Zhejiang Children's Channel
 rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
 #EXTINF:-1 group-title="China" tvg-id="ZhejiangEconomicChannel.cn@SD",Zhejiang Economic Channel
@@ -1033,10 +1037,6 @@ http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 #EXTINF:-1 group-title="China" tvg-id="",黑龙江卫 (1080p)
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-#EXTINF:-1 group-title="China" tvg-id="YichangSanxiaTravelLifeChannel.cn@SD",Yichang Sanxia Travel & Life Channel
-https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
-#EXTINF:-1 group-title="China" tvg-id="YichangSanxiaGeneralChannel.cn@SD",Yichang Sanxia General Channel
-https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 
 #EXTINF:-1 group-title="Hong Kong" tvg-id="AsianDrama.hk@SD",Asian Drama (1080p)
 http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
@@ -1629,15 +1629,24 @@ http://ikitv.sqn.at:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="YOYInternational.id@HD",YOY International (576p)
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
 
+#EXTINF:-1 group-title="Japan" tvg-id="CartoonNetwork.jp@HD",Cartoon Network HD
+http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun
 #EXTINF:-1 group-title="Japan" tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="DisneyChannel.jp@SD",Disney Channel
+http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+#EXTINF:-1 group-title="Japan" tvg-id="FujiTV.jp@JOCXDTV",Fuji TV [Not 24/7]
+#EXTVLCOPT:http-referrer=https://mov3.co/
+https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="",Gaki no Tsukai (English Subs) (720p)
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="GSTV.jp@SD",GSTV (720p)
 https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
 #EXTINF:-1 group-title="Japan" tvg-id="",JOJG-DTV (1080p)
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="MTV.jp@SD",MTV
+http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 #EXTINF:-1 group-title="Japan" tvg-id="NHKGeneralTV.jp@JOJGDTV",NHK General TV JOJG-DTV (1080i)
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKWorldPremium.jp@SD",NHK World Premium (720p)
@@ -1666,31 +1675,22 @@ https://nhk.lls.pbs.org/index.m3u8
 https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="QVC.jp@SD",QVC (1080p)
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="SakuranboTV.jp@JOCYDTV",Sakuranbo TV (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="ShopChannel.jp@SD",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="TVTokyo.jp@JOTXDTV",TV Tokyo
-#EXTVLCOPT:http-referrer=https://mov3.co/
-https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="Weathernews.jp@SD",Weathernews (720p)
-https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="TVUYamagata.jp@JOWIDTV",TV-U Yamagata (1080i)
-https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="TVAsahi.jp@JOEXDTV",TV Asahi [Not 24/7]
 #EXTVLCOPT:http-referrer=https://mov3.co/
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="FujiTV.jp@JOCXDTV",Fuji TV [Not 24/7]
+#EXTINF:-1 group-title="Japan" tvg-id="TVTokyo.jp@JOTXDTV",TV Tokyo
 #EXTVLCOPT:http-referrer=https://mov3.co/
-https://fujitv4.mov3.co/hls/fujitv.m3u8
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="TVUYamagata.jp@JOWIDTV",TV-U Yamagata (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="Weathernews.jp@SD",Weathernews (720p)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="YTSYamagataTV.jp@JOYIDTV",YTS Yamagata TV (1080i)
 https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="SakuranboTV.jp@JOCYDTV",Sakuranbo TV (1080i)
-https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="MTV.jp@SD",MTV
-http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
-#EXTINF:-1 group-title="Japan" tvg-id="CartoonNetwork.jp@HD",Cartoon Network HD
-http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
-#EXTINF:-1 group-title="Japan" tvg-id="DisneyChannel.jp@SD",Disney Channel
-http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
 
 #EXTINF:-1 group-title="Korea" tvg-id="ABN.kr@SD",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -1882,11 +1882,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=215
 http://202.150.165.66:8088/play/301-AXN/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Taiwan",AXN Asia Taiwan (1080p)
 http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Thailand",AXN Asia Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/89/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="CartoonNetworkAsia.sg@SD",Cartoon Network Asia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="CartoonNetworkAsia.sg@SD",Cartoon Network Asia
 http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="CartoonNetworkAsia.sg@Thailand",Cartoon Network Asia Thailand
+http://103.253.74.210:7070/stream/118/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="CartoonitoAsia.sg@SD",Cartoonito Asia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
@@ -1934,28 +1939,23 @@ http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="meWATCHLIVE1.sg@SD",meWATCH LIVE 1 (1080p)
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="Singapore" tvg-id="Suria.sg@SD",Suria [Geo-blocked]
-https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="TechStorm.sg@SD",Tech Storm (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="ZeeTVAsiaPacific.sg@SD",Zee TV Asia Pacific (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="ZooMoo.sg@SD",ZooMoo (1080p)
-http://168.196.127.137:6001/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="AXNAsia.sg@Thailand",AXN Asia Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://103.253.74.210:7070/stream/89/index.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="TLCSoutheastAsia.sg@SD",TLC Southeast Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://103.253.74.210:7070/stream/108/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="NickJrAsia.sg@SD",Nick Jr. Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/116/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-id="NickelodeonAsia.sg@SD",Nickelodeon Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/117/index.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-id="CartoonNetworkAsia.sg@Thailand",Cartoon Network Asia Thailand
-http://103.253.74.210:7070/stream/118/index.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="Suria.sg@SD",Suria [Geo-blocked]
+https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="TechStorm.sg@SD",Tech Storm (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="TLCSoutheastAsia.sg@SD",TLC Southeast Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/108/index.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="ZeeTVAsiaPacific.sg@SD",Zee TV Asia Pacific (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="ZooMoo.sg@SD",ZooMoo (1080p)
+http://168.196.127.137:6001/play/a03k/index.m3u8
 
 #EXTINF:-1 group-title="Vietnam" tvg-id="AnNinhTV.vn@HD",An Ninh TV HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=20
@@ -2021,12 +2021,14 @@ https://dethich.pw/htv4/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 group-title="Vietnam" tvg-id="HTV7.vn@SD",HTV7 (720p)
 https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTV7.vn@SD",HTV7 (1080p) [Geo-blocked]
+https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="HTV9.vn@SD",HTV9 (720p)
 https://dethich.pw/htv9/index.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="HTVSports.vn@SD",HTV Sports (1080i)
-https://vmttv.dpdns.org/tv360?id=htv-the-thao
 #EXTINF:-1 group-title="Vietnam" tvg-id="HTVSports.vn@SD",HTV Sports (1080p)
 https://dethich.pw/htvthethao/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="HTVSports.vn@SD",HTV Sports (1080i)
+https://vmttv.dpdns.org/tv360?id=htv-the-thao
 #EXTINF:-1 group-title="Vietnam" tvg-id="HTVCFamily.vn@SD",HTVC Family (720p)
 https://dethich.pw/htvcgiadinh/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="HTVCMovies.vn@SD",HTVC Movies (720p)
@@ -2049,6 +2051,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=178
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONEChannel.vn@HD",ON E Channel (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONInfoTV.vn@SD",ON Info TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONKids.vn@SD",ON Kids (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONLife.vn@SD",ON Life (720p)
@@ -2063,6 +2067,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=136
 https://vmttv.dpdns.org/tv360?id=175
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONStyleTV.vn@SD",ON Style TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONTrendingTV.vn@SD",ON Trending TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 group-title="Vietnam" tvg-id="ONVFamily.vn@SD",ON V Family (480p)
+https://vmttv.dpdns.org/tv360?id=187
 #EXTINF:-1 group-title="Vietnam" tvg-id="",ON Vie Drama (720p)
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="ONVieDramas.vn@SD",ON Vie Dramas (1080i)
@@ -2113,10 +2121,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="ThaiNguyenTV.vn@SD",Thái Nguyên TV (720p)
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV5.vn@SD",Vinh Long TV 5 (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=91
-#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV5.vn@SD",Vinh Long TV 5 (720p)
-https://dethich.pw/thvl5/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="TVBVietnam.vn@SD",TVB Vietnam (1080p)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VietnamToday.vn@HD",Vietnam Today (1080p)
@@ -2135,8 +2139,14 @@ https://dethich.pw/thvl2/index.m3u8
 https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV4.vn@SD",Vinh Long TV 4 (720p)
 https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV5.vn@SD",Vinh Long TV 5 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 group-title="Vietnam" tvg-id="VinhLongTV5.vn@SD",Vinh Long TV 5 (720p)
+https://dethich.pw/thvl5/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV1.vn@HD",VTV1 HD (720p)
 https://dethich.pw/vtv1/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV1.vn@HD",VTV1 HD (720p)
+https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV1.vn@HD",VTV1 HD (1080p) [Geo-blocked]
 https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV2.vn@HD",VTV2 HD (1080p)
@@ -2147,6 +2157,8 @@ https://dethich.pw/vtv2/index.m3u8
 https://dethich.pw/vtv3/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV4.vn@HD",VTV4 HD (720p)
 https://dethich.pw/vtv4/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-id="VTV4.vn@HD",VTV4 HD (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV5.vn@HD",VTV5 HD (720p)
 https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV5TayNamBo.vn@HD",VTV5 Tay Nam Bo HD (1080p)
@@ -2163,18 +2175,6 @@ https://dethich.pw/vtv8/index.m3u8
 https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VTV10.vn@HD",VTV10 (720p)
 https://dethich.pw/vtv10/index.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="ONInfoTV.vn@SD",ON Info TV (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 group-title="Vietnam" tvg-id="ONTrendingTV.vn@SD",ON Trending TV (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 group-title="Vietnam" tvg-id="VTV1.vn@HD",VTV1 HD (720p)
-https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="HTV7.vn@SD",HTV7 (1080p) [Geo-blocked]
-https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="ONVFamily.vn@SD",ON V Family (480p)
-https://vmttv.dpdns.org/tv360?id=187
-#EXTINF:-1 group-title="Vietnam" tvg-id="VTV4.vn@HD",VTV4 HD (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="4SiDESTV.in@SD",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
@@ -3587,9 +3587,9 @@ https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="HornbillTV.in@SD",Hornbill TV (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="HosannaTV.in@Tamil",Hosanna TV (720p)
-https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 group-title="India" tvg-id="HosannaTV.in@Tamil",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="HosannaTV.in@Tamil",Hosanna TV (720p)
+https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-title="India" tvg-id="HosannaTV.in@Global",Hosanna TV Global
 https://ktismaservers.in:3349/live/hosannatvlive.m3u8
 #EXTINF:-1 group-title="India" tvg-id="HosannaTV.in@Hindi",Hosanna TV Hindi (720p)
@@ -5527,8 +5527,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8
 http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SunSurya.in@HD",Sun Surya HD (1080p)
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="SunTV.in@HD",Sun TV HD (1080p)
-https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SuriyaTV.in@SD",Suriya TV (1080p)
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SuriyanTV.in@SD",Suriyan TV (576p)
@@ -6104,7 +6102,5 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 group-title="Philippines" tvg-id="SMNI.ph@SD",SMNI (720p)
 https://stream.kdlc.click/hls/0/stream.m3u8
-#EXTINF:-1 group-title="Philippines" tvg-id="",TeleRadyo (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 #EXTINF:-1 group-title="Philippines" tvg-id="TAPSports.ph@SD",TAP Sports (1080p) [Geo-blocked]
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
